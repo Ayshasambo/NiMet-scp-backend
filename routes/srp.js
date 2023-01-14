@@ -16,11 +16,11 @@ router.get('/', async (req, res) => {
 //NEW POST
 router.post("/", async (req, res) => {
    const newSrp =  new Srp({
-     statename : req.body.statename,
-     city: req.body.city
+    statename : req.body.statename,
+    city: req.body.city
    });
    try{
-     const savedSrp = await post.save(); 
+     const savedSrp = await newSrp.save(); 
       res.json(savedSrp);
     }
     catch(err) {
@@ -28,42 +28,48 @@ router.post("/", async (req, res) => {
     }
 });
 
+
 //Get specific post
-router.get('/id', async (req, res) => {
+router.get('/:id', async (req, res) => {
   try{
-    const getSrp = await Srp.findById(req.params.srpId);
+    const getSrp = await Srp.findOne({ _id: req.params.id });
     res.json(getSrp)
   }
   catch(err){
-        res.json({message:err})
+    res.json({message:err})
   }
 });
+
 
 //DELETE POST
 router.delete('/:id', async (req, res) =>{
   try{ 
-    const removeSrp = await Srp.remove({_id: req.params.id})
+    const removeSrp = await Srp.deleteOne({_id: req.params.id})
     res.json(removeSrp)
   }
   catch(err){
       res.json({message:err})
   }
- 
-})
+});
 
-//UPDATE POST
- router.patch('/:id', async (req, res) =>{
-   try{
-     const updateSrp = await Srp.updateOne(
-       {_id: req.params.id}, 
-       {$set: req.body}
-       );
-      res.json(updateSrp)
-   }
-   catch(err){
-     res.json({message:err})
-   }
- });
+
+ //UPDATE POST
+router.patch('/:id', async (req, res) =>{
+  try{
+    const updateSrp = await Srp.updateOne(
+      {_id: req.params.id}, 
+      {$set: req.body}
+    );
+    res.json(updateSrp)
+  }
+  catch(err){
+    res.json({message:err})
+  }
+});
+
+
+
+
 
 
 module.exports = router;
