@@ -3,7 +3,7 @@ const CryptoJS = require("crypto-js");
 const router = require("express").Router();
 
 //POST
-router.post("/register", async(req, res) =>{
+router.post("/", async(req, res) =>{
 
     const newState = new State({
       statename: req.body.statename,
@@ -30,9 +30,9 @@ router.delete("/:id", async (req, res) => {
   });
 
   //GET STATE
-router.get("/find/:id", async (req, res) => {
+router.get("/:id", async (req, res) => {
     try {
-      const state = await State.findById(req.params.id);
+      const state = await State.findById({_id:req.params.id});
       const { password, ...others } = state._doc;
       res.status(200).json(others);
     } catch (err) {
