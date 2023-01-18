@@ -11,8 +11,8 @@ require('dotenv/config');
 
 
 //connect to database
-mongoose.connect('mongodb+srv://Aysha:2050@cluster0.4frzr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
-//mongoose.connect('mongodb://localhost/nimet')
+//mongoose.connect('mongodb+srv://Aysha:2050@cluster0.4frzr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority')
+mongoose.connect('mongodb://localhost/nimet')
 //mongoose.connect('${process.env.DB_CONNECTION}')
 .then(() => console.log('connected to mongodb...'))
 .catch(err => console.error('Could not connect to MongoDB...', err));
