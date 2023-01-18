@@ -21,10 +21,8 @@ const cropSchema = new mongoose.Schema({
                 type: String
             }
 
-        }
-            
-        ]
-     } ]
+        }]
+     }]
 });
 
 

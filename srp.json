@@ -1,0 +1,346 @@
+[ 
+    {
+    "state": "Abia",
+    "Location": [
+    {
+    "name": "Aba North",
+    "onset": "14-Mar",
+    "seasonend": "14-Dec",
+    "seasonlength": "276",
+    "annualrainfall": "2556"
+    },
+    {
+    "name": "Aba South",
+    "onset": "14-Mar",
+    "seasonend": "14-Dec",
+    "seasonlength": "276",
+    "annualrainfall": "2569"
+    },
+    {
+    "name": "Arochukw",
+    "onset": "20-Mar",
+    "seasonend": "10-Dec",
+    "seasonlength": "267",
+    "annualrainfall": "2354"
+    },
+    {
+    "name": "Bende",
+    "onset": "21-Mar",
+    "seasonend": "10-Dec",
+    "seasonlength": "265",
+    "annualrainfall": "2309"
+    },
+    {
+    "name": "Ikwuano",
+    "onset": "18-Mar",
+    "seasonend": "12-Dec",
+    "seasonlength": "270",
+    "annualrainfall": "2427"
+    },
+    {
+    "name": "Isiala Ngwa North",
+    "onset": "17-Mar",
+    "seasonend": "12-Dec",
+    "seasonlength": "271",
+    "annualrainfall": "2439"
+    },
+    {
+    "name": "Isiala Ngwa South",
+    "onset": "16-Mar",
+    "seasonend": "12-Dec",
+    "seasonlength": "272",
+    "annualrainfall": "2475"
+    },
+    {
+    "name": "Isuikwua",
+    "onset": "23-Mar",
+    "seasonend": "09-Dec",
+    "seasonlength": "262",
+    "annualrainfall": "2247"
+    },
+    {
+        "name": "Oboma Ngwa",
+        "onset": "14-Mar",
+        "seasonend": "14-Dec",
+        "seasonlength": "275",
+        "annualrainfall": "2544"
+        },
+        {
+        "name": "Ohafia Abia",
+        "onset": "21-Mar",
+        "seasonend": "10-Dec",
+        "seasonlength": "264",
+        "annualrainfall": "2301"
+        },
+        {
+        "name": "Osisioma Ngwa",
+        "onset": "15-Mar",
+        "seasonend": "13-Dec",
+        "seasonlength": "274",
+        "annualrainfall": "2519"
+        },
+        {
+        "name": "Ugwunagbo",
+        "onset": "13-Mar",
+        "seasonend": "14-Dec",
+        "seasonlength": "278",
+        "annualrainfall": "2596"
+        },
+        {
+        "name": "Ukwa East",
+        "onset": "12-Mar",
+        "seasonend": "15-Dec",
+        "seasonlength": "279",
+        "annualrainfall": "2632"
+        },
+        {
+        "name": "Ukwa West",
+        "onset": "12-Mar",
+        "seasonend": "15-Dec",
+        "seasonlength": "278",
+        "annualrainfall": "2619"
+        },
+        {
+        "name": "Umuahia North",
+        "onset": "20-Mar",
+        "seasonend": "10-Dec",
+        "seasonlength": "266",
+        "annualrainfall": "2343"
+        },
+        {
+            "name": "Umuahia South",
+            "onset": "19-Mar",
+            "seasonend": "11-Dec",
+            "seasonlength": "268",
+            "annualrainfall": "2388"
+            },
+            {
+            "name": "Umu-Nneochi",
+            "onset": "25-Mar",
+            "seasonend": "07-Dec",
+            "seasonlength": "258",
+            "annualrainfall": "2173"
+            }
+            ]
+            },
+
+            {
+            "state": "Akwa Ibom",
+            "Location": [
+            {
+            "name": "Ikot Abasi",
+            "onset": "07-Mar",
+            "seasonend": "18-Dec",
+            "seasonlength": "287",
+            "annualrainfall": "2830"
+            },
+            {
+            "name": "Ikot Ekpene",
+            "onset": "15-Mar",
+            "seasonend": "13-Dec",
+            "seasonlength": "274",
+            "annualrainfall": "2511"
+            },
+            {
+            "name": "Ini",
+            "onset": "17-Mar",
+            "seasonend": "12-Dec",
+            "seasonlength": "270",
+            "annualrainfall": "2431"
+            },
+            {
+            "name": "Itu",
+            "onset": "14-Mar",
+            "seasonend": "14-Dec",
+            "seasonlength": "275",
+            "annualrainfall": "2544"
+            },
+            {
+            "name": "Mbo",
+            "onset": "07-Mar",
+            "seasonend": "17-Dec",
+            "seasonlength": "286",
+            "annualrainfall": "2795"
+            },
+            {
+            "name": "Mkpat Enin",
+            "onset": "07-Mar",
+            "seasonend": "18-Dec",
+            "seasonlength": "286",
+            "annualrainfall": "2809"
+            },
+            {
+            "name": "Nsit Atai",
+            "onset": "10-Mar",
+            "seasonend": "16-Dec",
+            "seasonlength": "281",
+            "annualrainfall": "2689"
+            },
+            {
+            "name": "Nsit Ibom",
+            "onset": "11-Mar",
+            "seasonend": "15-Dec",
+            "seasonlength": "280",
+            "annualrainfall": "2658"
+            },
+            {
+            "name": "Nsit Ubium",
+            "onset": "09-Mar",
+            "seasonend": "16-Dec",
+            "seasonlength": "283",
+            "annualrainfall": "2726"
+            },
+            {
+            "name": "Obot Akara",
+            "onset": "16-Mar",
+            "seasonend": "13-Dec",
+            "seasonlength": "273",
+            "annualrainfall": "2488"
+            },
+            {
+            "name": "Okobo",
+            "onset": "10-Mar",
+            "seasonend": "16-Dec",
+            "seasonlength": "282",
+            "annualrainfall": "2702"
+            },
+            {
+            "name": "Onna",
+            "onset": "08-Mar",
+            "seasonend": "17-Dec",
+            "seasonlength": "286",
+            "annualrainfall": "2792"
+            },
+            {
+                "name": "Oron",
+                "onset": "09-Mar",
+                "seasonend": "16-Dec",
+                "seasonlength": "283",
+                "annualrainfall": "2738"
+                },
+                {
+                "name": "Oruk Anam",
+                "onset": "10-Mar",
+                "seasonend": "16-Dec",
+                "seasonlength": "282",
+                "annualrainfall": "2691"
+                },
+                {
+                "name": "Udung Uko",
+                "onset": "09-Mar",
+                "seasonend": "16-Dec",
+                "seasonlength": "283",
+                "annualrainfall": "2729"
+                },
+                {
+                "name": "Ukanafun",
+                "onset": "11-Mar",
+                "seasonend": "15-Dec",
+                "seasonlength": "280",
+                "annualrainfall": "2649"
+                },
+                {
+                "name": "Uruan",
+                "onset": "12-Mar",
+                "seasonend": "15-Dec",
+                "seasonlength": "278",
+                "annualrainfall": "2612"
+                },
+                {
+                "name": "Urue-Offong/Oruko",
+                "onset": "09-Mar",
+                "seasonend": "17-Dec",
+                "seasonlength": "284",
+                "annualrainfall": "2750"
+                },
+                {
+                "name": "Uyo",
+                "onset": "13-Mar",
+                "seasonend": "14-Dec",
+                "seasonlength": "278",
+                "annualrainfall": "2604"
+                }
+                ]
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        ]

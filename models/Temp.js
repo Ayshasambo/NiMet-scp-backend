@@ -2,20 +2,62 @@ const mongoose = require('mongoose');
 
 //temp schema
 const tempSchema = new mongoose.Schema({
-    statename:{
+    state:{
         type: String
     },
-    location:{
-        type: String
-    },
-    month:[{
-        day:{
-            type: String
+    location:[{
+        name:{
+            type:String
         },
-        night:{
-            type: String
+        january:{
+            day:{
+                type: String
+            },
+            night:{
+                type: String
+            }
+        },
+        february:{
+            day:{
+                type: String
+            },
+            night:{
+                type: String
+            }
+        },
+        march:{
+            day:{
+                type: String
+            },
+            night:{
+                type: String
+            }
+        },
+        April:{
+            day:{
+                type: String
+            },
+            night:{
+                type: String
+            }
+        },
+        may:{
+            day:{
+                type: String
+            },
+            night:{
+                type: String
+            }
         }
     }]
+    // month:[{
+    //     day:{
+    //         type: String
+    //     },
+    //     night:{
+    //         type: String
+    //     }
+    // }]
 
 
     

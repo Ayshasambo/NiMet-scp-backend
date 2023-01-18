@@ -1,0 +1,2433 @@
+[
+    {
+        "state":"Abia",
+        "location":[
+            {
+                "name":"Arochukwu", 										
+                "January":{
+                   "day":"29.7",
+                   "night":"19.9"
+                },
+                "February":{
+                    "day":"30.6",
+                    "night":"21.5"
+                 },
+                 "March":{
+                    "day":"30.4",
+                    "night":"23.4"
+                 },
+                 "April":{
+                    "day":"30",
+                    "night":"23.7"
+                 },
+                 "May":{
+                    "day":"29.4",
+                    "night":"23.5"
+                 }
+            },
+
+            {
+                "name":" Ukwa West", 										
+                "January":{
+                   "day":"29.9",
+                   "night":"22.2"
+                },
+                "February":{
+                    "day":"30.4",
+                    "night":"23.4"
+                 },
+                 "March":{
+                    "day":"29.9",
+                    "night":"24.6"
+                 },
+                 "April":{
+                    "day":"29.4",
+                    "night":"24.6"
+                 },
+                 "May":{
+                    "day":"29",
+                    "night":"24.4"
+                 }
+            },
+
+            {
+                "name":"Umuahia",  										
+                "January":{
+                   "day":"32.9",
+                   "night":"21.7"
+                },
+                "February":{
+                    "day":"34.1",
+                    "night":"23.3"
+                 },
+                 "March":{
+                    "day":"34.3",
+                    "night":"24"
+                 },
+                 "April":{
+                    "day":"33.2",
+                    "night":"24"
+                 },
+                 "May":{
+                    "day":"32",
+                    "night":"23.4"
+                 }
+            },
+
+            {
+                "name":"Umunneochi",										
+                "January":{
+                   "day":"29.8",
+                   "night":"19.9"
+                },
+                "February":{
+                    "day":"30.7",
+                    "night":"21.5"
+                 },
+                 "March":{
+                    "day":"30.5",
+                    "night":"23.3"
+                 },
+                 "April":{
+                    "day":"30.1",
+                    "night":"23.6"
+                 },
+                 "May":{
+                    "day":"29.5",
+                    "night":"23.5"
+                 }
+            }
+        ]
+    },
+
+    
+    {
+        "state": "Adamawa",
+        "location": [
+            {
+                "name": "Ganye",
+                "January": {
+                    "Day": 31.9,
+                    "Night": 16.8
+                },
+                "February": {
+                    "Day": 34.5,
+                    "Night": 18.8
+                },
+                "March": {
+                    "Day": 35.8,
+                    "Night": 21.8
+                },
+                "April": {
+                    "Day": 33.8,
+                    "Night": 22.9
+                },
+                "May": {
+                    "Day": 30.7,
+                    "Night": 22.1
+                }
+            },
+            {
+                "name": "Madagali",
+                "January": {
+                    "Day": 33.3,
+                    "Night": 15.4
+                },
+                "February": {
+                    "Day": 35.7,
+                    "Night": 17.6
+                },
+                "March": {
+                    "Day": 38.3,
+                    "Night": 21.6
+                },
+                "April": {
+                    "Day": 38.7,
+                    "Night": 24.5
+                },
+                "May": {
+                    "Day": 36.3,
+                    "Night": 24.4
+                }
+            },
+            {
+                "name": "Numan",
+                "January": {
+                    "Day": 33.4,
+                    "Night": 16.5
+                },
+                "February": {
+                    "Day": 35.9,
+                    "Night": 18.9
+                },
+                "March": {
+                    "Day": 37.1,
+                    "Night": 22.9
+                },
+                "April": {
+                    "Day": 35.0,
+                    "Night": 24.7
+                },
+                "May": {
+                    "Day": 32.4,
+                    "Night": 24.0
+                }
+            },
+            {
+                "name": "Yola",
+                "January": {
+                    "Day": 34.6,
+                    "Night": 18.3
+                },
+                "February": {
+                    "Day": 35.9,
+                    "Night": 21.2
+                },
+                "March": {
+                    "Day": 39.5,
+                    "Night": 24.3
+                },
+                "April": {
+                    "Day": 39.6,
+                    "Night": 26.7
+                },
+                "May": {
+                    "Day": 35.6,
+                    "Night": 25.3
+                }
+            }
+        ]
+    },
+
+    {
+        "state": "Akwa-ibom",
+        "location": [
+            {
+                "name": "Eket",
+                "January": {
+                    "Day": 30.6,
+                    "Night": 23.4
+                },
+                "February": {
+                    "Day": 31.3,
+                    "Night": 24.1
+                },
+                "March": {
+                    "Day": 31.4,
+                    "Night": 24.4
+                },
+                "April": {
+                    "Day": 30.9,
+                    "Night": 24.4
+                },
+                "May": {
+                    "Day": 30.3,
+                    "Night": 23.9
+                }
+            },
+            {
+                "name": "Oni",
+                "January": {
+                    "Day": 29.8,
+                    "Night": 20.7
+                },
+                "February": {
+                    "Day": 30.5,
+                    "Night": 22.1
+                },
+                "March": {
+                    "Day": 30.1,
+                    "Night": 23.6
+                },
+                "April": {
+                    "Day": 29.8,
+                    "Night": 23.8
+                },
+                "May": {
+                    "Day": 29.3,
+                    "Night": 23.7
+                }
+            },
+            {
+                "name": "Oron",
+                "January": {
+                    "Day": 29.2,
+                    "Night": 23.9
+                },
+                "February": {
+                    "Day": 29.6,
+                    "Night": 24.9
+                },
+                "March": {
+                    "Day": 29.2,
+                    "Night": 25.7
+                },
+                "April": {
+                    "Day": 28.8,
+                    "Night": 25.7
+                },
+                "May": {
+                    "Day": 28.4,
+                    "Night": 25.5
+                }
+            },
+            {
+                "name": "Oruk",
+                "January": {
+                    "Day": 29.7,
+                    "Night": 22.8
+                },
+                "February": {
+                    "Day": 30.1,
+                    "Night": 23.9
+                },
+                "March": {
+                    "Day": 29.6,
+                    "Night": 25.0
+                },
+                "April": {
+                    "Day": 29.3,
+                    "Night": 25.1
+                },
+                "May": {
+                    "Day": 28.9,
+                    "Night": 24.9
+                }
+            },
+            {
+                "name": "Uyo",
+                "January": {
+                    "Day": 32.6,
+                    "Night": 22.0
+                },
+                "February": {
+                    "Day": 34.0,
+                    "Night": 23.2
+                },
+                "March": {
+                    "Day": 33.6,
+                    "Night": 23.6
+                },
+                "April": {
+                    "Day": 32.5,
+                    "Night": 23.7
+                },
+                "May": {
+                    "Day": 31.6,
+                    "Night": 23.3
+                }
+            }
+        ]
+    },
+
+    {
+        "state": "Anambra",
+        "location": [
+            {
+                "name": "Anambara West",
+                "January": {
+                    "Day": 33.7,
+                    "Night": 20.9
+                },
+                "February": {
+                    "Day": 36.1,
+                    "Night": 23.9
+                },
+                "March": {
+                    "Day": 36.3,
+                    "Night": 25.1
+                },
+                "April": {
+                    "Day": 34.1,
+                    "Night": 25.1
+                },
+                "May": {
+                    "Day": 33.2,
+                    "Night": 24.1
+                }
+            },
+            {
+                "name": "Awka",
+                "January": {
+                    "Day": 33.9,
+                    "Night": 21.7
+                },
+                "February": {
+                    "Day": 35.4,
+                    "Night": 23.7
+                },
+                "March": {
+                    "Day": 35.5,
+                    "Night": 24.8
+                },
+                "April": {
+                    "Day": 33.9,
+                    "Night": 24.7
+                },
+                "May": {
+                    "Day": 32.1,
+                    "Night": 23.8
+                }
+            },
+            {
+                "name": "Idemi South",
+                "January": {
+                    "Day": 34.9,
+                    "Night": 20.8
+                },
+                "February": {
+                    "Day": 33.8,
+                    "Night": 22.6
+                },
+                "March": {
+                    "Day": 35.1,
+                    "Night": 23.5
+                },
+                "April": {
+                    "Day": 34.5,
+                    "Night": 25.0
+                },
+                "May": {
+                    "Day": 33.4,
+                    "Night": 24.1
+                }
+            },
+            {
+                "name": "Ogbaru",
+                "January": {
+                    "Day": 34.1,
+                    "Night": 22.0
+                },
+                "February": {
+                    "Day": 34.9,
+                    "Night": 21.5
+                },
+                "March": {
+                    "Day": 34.6,
+                    "Night": 23.8
+                },
+                "April": {
+                    "Day": 32.9,
+                    "Night": 24.1
+                },
+                "May": {
+                    "Day": 32.9,
+                    "Night": 23.5
+                }
+            }
+        ]
+    },
+
+    {
+        "state": "Bauchi",
+        "Location": [
+            {
+                "name": "Bauchi",
+                "months": [
+                    {
+                        "month": "January",
+                        "day": 30.8,
+                        "night": 14.3
+                    },
+                    {
+                        "month": "February",
+                        "day": 32.8,
+                        "night": 16.6
+                    },
+                    {
+                        "month": "March",
+                        "day": 37.2,
+                        "night": 20.6
+                    },
+                    {
+                        "month": "April",
+                        "day": 38.1,
+                        "night": 23.6
+                    },
+                    {
+                        "month": "May",
+                        "day": 35.8,
+                        "night": 23.8
+                    }
+                ]
+            },
+            {
+                "name": "Bogoro",
+                "months": [
+                    {
+                        "month": "January",
+                        "day": 32.3,
+                        "night": 15.8
+                    },
+                    {
+                        "month": "February",
+                        "day": 34.5,
+                        "night": 18
+                    },
+                    {
+                        "month": "March",
+                        "day": 36.2,
+                        "night": 21.2
+                    },
+                    {
+                        "month": "April",
+                        "day": 35.7,
+                        "night": 23.1
+                    },
+                    {
+                        "month": "May",
+                        "day": 32.9,
+                        "night": 22.6
+                    }
+                ]
+            },
+            {
+                "name": "Darazo",
+                "months": [
+                    {
+                        "month": "January",
+                        "day": 32.3,
+                        "night": 14.4
+                    },
+                    {
+                        "month": "February",
+                        "day": 35,
+                        "night": 16.8
+                    },
+                    {
+                        "month": "March",
+                        "day": 38.1,
+                        "night": 21.1
+                    },
+                    {
+                        "month": "April",
+                        "day": 39.4,
+                        "night": 24.6
+                    },
+                    {
+                        "month": "May",
+                        "day": 36.9,
+                        "night": 24.7
+                    }
+                ]
+            },
+            {
+                "name": "Zaki",
+                "months": [
+                    {
+                        "month": "January",
+                        "day": 31.9,
+                        "night": 13.9
+                    },
+                    {
+                        "month": "February",
+                        "day": 34.6,
+                        "night": 16.2
+                    },
+                    {
+                        "month": "March",
+                        "day": 38.3,
+                        "night": 20.5
+                    },
+                    {
+                        "month": "April",
+                        "day": 40.7,
+                        "night": 24.3
+                    },
+                    {
+                        "month": "May",
+                        "day": 39.3,
+                        "night": 25.5
+                    }
+                ]
+            }
+        ]
+    },
+    
+
+
+
+    {
+        "state": "Bayelsa",
+        "location": [
+        {
+        "name": "Brass",
+        "January": {
+        "Day": 28.6,
+        "Night": 24.7
+        },
+        "February": {
+        "Day": 29.1,
+        "Night": 25.5
+        },
+        "March": {
+        "Day": 28.8,
+        "Night": 26.1
+        },
+        "April": {
+        "Day": 28.5,
+        "Night": 26.1
+        },
+        "May": {
+        "Day": 28,
+        "Night": 25.8
+        }
+        },
+        {
+        "name": "Ekeremor",
+        "January": {
+        "Day": 29.1,
+        "Night": 23.9
+        },
+        "February": {
+        "Day": 29.6,
+        "Night": 25
+        },
+        "March": {
+        "Day": 29.3,
+        "Night": 25.7
+        },
+        "April": {
+        "Day": 29,
+        "Night": 25.7
+        },
+        "May": {
+        "Day": 28.5,
+        "Night": 25.5
+        }
+        },
+        {
+        "name": "Southern Ijaw",
+        "January": {
+        "Day": 29.7,
+        "Night": 22.5
+        },
+        "February": {
+        "Day": 30.2,
+        "Night": 23.7
+        },
+        "March": {
+        "Day": 29.8,
+        "Night": 24.5
+        },
+        "April": {
+        "Day": 29.2,
+        "Night": 24.6
+        },
+        "May": {
+        "Day": 28.8,
+        "Night": 24.4
+        }
+        },
+        {
+        "name": "Yenegoa",
+        "January": {
+        "Day": 30.3,
+        "Night": 22.8
+        },
+        "February": {
+        "Day": 31,
+        "Night": 19.5
+        },
+        "March": {
+        "Day": 30.7,
+        "Night": 24.3
+        },
+        "April": {
+        "Day": 30.2,
+        "Night": 26.4
+        },
+        "May": {
+        "Day": 29.7,
+        "Night": 25.5
+        }
+    }
+    ]
+},
+   
+    
+{
+    "state": "Benue",
+    "location": [
+    {
+    "name": "Katsina Ala",
+    "January": {
+    "Day": 30.3,
+    "Night": 18.3
+    },
+    "February": {
+    "Day": 32.2,
+    "Night": 20.2
+    },
+    "March": {
+    "Day": 32.5,
+    "Night": 22.7
+    },
+    "April": {
+    "Day": 31.3,
+    "Night": 23.4
+    },
+    "May": {
+    "Day": 30,
+    "Night": 23.1
+    }
+    },
+    {
+    "name": "Makurdi",
+    "January": {
+    "Day": 34.9,
+    "Night": 19.2
+    },
+    "February": {
+    "Day": 36.3,
+    "Night": 22.1
+    },
+    "March": {
+    "Day": 37.5,
+    "Night": 25.3
+    },
+    "April": {
+    "Day": 36,
+    "Night": 25.6
+    },
+    "May": {
+    "Day": 32.7,
+    "Night": 23.8
+    }
+    },
+    {
+    "name": "Oturkpo",
+    "January": {
+    "Day": 31,
+    "Night": 18.1
+    },
+    "February": {
+    "Day": 32.7,
+    "Night": 20.4
+    },
+    "March": {
+    "Day": 33,
+    "Night": 23.2
+    },
+    "April": {
+    "Day": 31.9,
+    "Night": 23.9
+    },
+    "May": {
+    "Day": 30.6,
+    "Night": 23.6
+    }
+    },
+    {
+    "name": "Vandeikya",
+    "January": {
+    "Day": 30.2,
+    "Night": 18.6
+    },
+    "February": {
+    "Day": 31.7,
+    "Night": 20.3
+    },
+    "March": {
+    "Day": 31.2,
+    "Night": 22.4
+    },
+    "April": {
+    "Day": 30.1,
+    "Night": 23
+    },
+    "May": {
+    "Day": 29.1,
+    "Night": 22.8
+    }
+    }
+  ] 
+},
+
+{
+    "state": "Borno",
+    "Location": [
+        {
+            "name": "Abadam",
+            "January":{
+                    "day": 32,
+                    "night": 14.5
+                },
+                "February":{
+                    "day": 34.8,
+                    "night": 16.7
+                },
+                "March":{
+                    "day": 38.7,
+                    "night": 21.4
+                },
+                "April":{
+                    "day": 41.8,
+                    "night": 25.8
+                },
+                "May":{
+                    "day": 41.4,
+                    "night": 27.6
+                }
+            
+        },
+        {
+            "name": "Dikwa",
+            "January":{
+                    "day": 34.6,
+                    "night": 15.8
+                },
+            "February":{
+                    "day": 37.1,
+                    "night": 18.1
+                },
+            "March":{
+                    "day": 40.3,
+                    "night": 22.4
+                },
+            "April":{
+                    "day": 41.9,
+                    "night": 26.1
+                },
+            "May":{
+                    "day": 40.2,
+                    "night": 27
+                }
+        },
+        {
+            "name": "Maiduguri",
+            "January":{
+                    "day": 31.5,
+                    "night": 12.6
+                },
+            "February":{
+                    "day": 33.7,
+                    "night": 15.4
+                },
+               "March":{
+                    "day": 39.1,
+                    "night": 19.4
+                },
+                "April":{
+                    "day": 41,
+                    "night": 24.4
+                },
+              "May":{
+                    "day": 40.2,
+                    "night": 26.3
+                }
+        },
+        {
+            "name": "Nganzai",
+           "January":{
+                    "day": 32.7,
+                    "night": 14.9
+                },
+             "February":{
+                    "day": 35.4,
+                    "night": 17.2
+                },
+              "March":{
+                    "day": 39.1,
+                    "night": 21.8
+                },
+               "April":{
+                    "day": 41.6,
+                    "night": 25.7
+                },
+               "May":{
+                    "day": 40.7,
+                    "night": 27.2
+                }
+        }
+    ]
+},
+
+{
+    "state": "Cross-river",
+    "Location": [
+    {
+    "name": "Abi",
+    "January": {
+    "day": 30,
+    "night": 20.1
+    },
+    "February": {
+    "day": 31,
+    "night": 21.6
+    },
+    "March": {
+    "day": 30.4,
+    "night": 23.4
+    },
+    "April": {
+    "day": 29.9,
+    "night": 23.7
+    },
+    "May": {
+    "day": 29.2,
+    "night": 23.5
+    }
+    },
+    {
+    "name": "Calabar",
+    "January": {
+    "day": 31.9,
+    "night": 22.7
+    },
+    "February": {
+    "day": 33.1,
+    "night": 23.4
+    },
+    "March": {
+    "day": 32.8,
+    "night": 23.6
+    },
+    "April": {
+    "day": 31.8,
+    "night": 23.5
+    },
+    "May": {
+    "day": 31.1,
+    "night": 23.2
+    }
+    },
+    {
+    "name": "Ikom",
+    "January": {
+    "day": 32.9,
+    "night": 19.9
+    },
+    "February": {
+    "day": 34.5,
+    "night": 21.9
+    },
+    "March": {
+    "day": 34.9,
+    "night": 23.2
+    },
+    "April": {
+    "day": 33,
+    "night": 23.1
+    },
+    "May": {
+    "day": 32,
+    "night": 22.7
+    }
+    },
+    {
+    "name": "Obudu",
+    "January": {
+    "day": 30.1,
+    "night": 18.7
+    },
+    "February": {
+    "day": 31.7,
+    "night": 20.3
+    },
+    "March": {
+    "day": 31,
+    "night": 22.4
+    },
+    "April": {
+    "day": 29.9,
+    "night": 23
+    },
+    "May": {
+    "day": 28.9,
+    "night": 22.8
+    }
+    },
+    {
+    "name": "Ogoja",
+    "January": {
+    "day": 34.1,
+    "night": 20.1
+    },
+    "February": {
+    "day": 35.9,
+    "night": 21.2
+    },
+    "March": {
+    "day": 36.7,
+    "night": 23
+    },
+    "April": {
+    "day": 34.6,
+    "night": 22.9
+    },
+    "May": {
+    "day": 32.6,
+    "night": 21.9
+    }
+    }
+    ]
+    },
+
+    {
+        "state": "Delta",
+        "Location": [
+        {
+        "name": "Asaba",
+        "January": {
+        "day": 34.1,
+        "night": 22.1
+        },
+        "February": {
+        "day": 35.6,
+        "night": 24
+        },
+        "March": {
+        "day": 35.7,
+        "night": 24.5
+        },
+        "April": {
+        "day": 34.3,
+        "night": 24.6
+        },
+        "May": {
+        "day": 32.6,
+        "night": 23.7
+        }
+        },
+        {
+        "name": "Ndoka East",
+        "January": {
+        "day": 30.5,
+        "night": 20.4
+        },
+        "February": {
+        "day": 31.4,
+        "night": 22.1
+        },
+        "March": {
+        "day": 31.1,
+        "night": 23.6
+        },
+        "April": {
+        "day": 30.7,
+        "night": 23.9
+        },
+        "May": {
+        "day": 30.2,
+        "night": 23.7
+        }
+        },
+        {
+        "name": "Patani",
+        "January": {
+        "day": 30.3,
+        "night": 21.4
+        },
+        "February": {
+        "day": 31,
+        "night": 22.8
+        },
+        "March": {
+        "day": 30.7,
+        "night": 24
+        },
+        "April": {
+        "day": 30.2,
+        "night": 24.2
+        },
+        "May": {
+        "day": 29.7,
+        "night": 24
+        }
+        },
+        {
+        "name": "Warri",
+        "January": {
+        "day": 32.8,
+        "night": 22.8
+        },
+        "February": {
+        "day": 33.7,
+        "night": 23.8
+        },
+        "March": {
+        "day": 34.2,
+        "night": 24.3
+        },
+        "April": {
+        "day": 33.5,
+        "night": 24.5
+        },
+        "May": {
+        "day": 32.3,
+        "night": 23.6
+        }
+        },
+        {
+        "name": "Warri North",
+        "January": {
+        "day": 29.2,
+        "night": 22.9
+        },
+        "February": {
+        "day": 29.9,
+        "night": 24.3
+        },
+        "March": {
+        "day": 29.7,
+        "night": 25.4
+        },
+        "April": {
+        "day": 29.2,
+        "night": 25.5
+        },
+        "May": {
+        "day": 28.6,
+        "night": 25.2
+        }
+        }
+        ]
+        },
+
+        {
+        "state": "Ebonyi",
+        "Location": [
+        {
+        "name":"Abakaliki",
+"January": {
+"day": 30.5,
+"night": 19.3
+},
+"February": {
+"day": 31.7,
+"night": 21.1
+},
+"March": {
+"day": 31.1,
+"night": 23.3
+},
+"April": {
+"day": 30.5,
+"night": 23.8
+},
+"May": {
+"day": 29.6,
+"night": 23.6
+}
+},
+
+{
+"name": "Afikposi South",
+"January": {
+"day": 29.8,
+"night": 19.8
+},
+"February": {
+"day": 30.7,
+"night": 21.4
+},
+"March": {
+"day": 30.4,
+"night": 23.3
+},
+"April": {
+"day": 30,
+"night": 23.7
+},
+"May": {
+"day": 29.4,
+"night": 23.5
+}
+},
+{
+"name":"Ishielu",
+"January": {
+"day": 30.4,
+"night": 19.2
+},
+"February": {
+"day": 31.5,
+"night": 21.1
+},
+"March": {
+"day": 31,
+"night": 23.2
+},
+"April": {
+"day": 30.5,
+"night": 23.7
+},
+"May": {
+"day": 29.6,
+"night": 23.5
+}
+}
+]
+},
+{
+"state": "Edo",
+"Location": [
+{
+"name": "Akoko Edo",
+"January": {
+"day": 31,
+"night": 18.9
+},
+"February": {
+"day": 32.2,
+"night": 20.9
+},
+"March": {
+"day": 32.1,
+"night": 23
+},
+"April": {
+"day": 31.1,
+"night": 23.3
+},
+"May": {
+"day": 30.1,
+"night": 23
+}
+},
+{
+"name": "Benin",
+"January": {
+"day": 33.2,
+"night": 22.6
+},
+"February": {
+"day": 34.6,
+"night": 23.8
+},
+"March": {
+    "day": 34.3,
+    "night": 24.3
+    },
+    "April": {
+    "day": 33.3,
+    "night": 24.3
+    },
+    "May": {
+    "day": 32,
+    "night": 23.5
+    }
+    },
+
+    {
+    "name": "Esan East",
+    "January": {
+    "day": 30.1,
+    "night": 19.2
+    },
+    "February": {
+    "day": 31,
+    "night": 21
+    },
+    "March": {
+    "day": 30.7,
+    "night": 23
+    },
+    "April": {
+    "day": 30.1,
+    "night": 23.4
+    },
+    "May": {
+    "day": 29.4,
+    "night": 23.1
+    }
+    },
+
+    {
+    "name": "Ovia Southwest",
+    "January": {
+    "day": 29.6,
+    "night": 21.1
+    },
+    "February": {
+    "day": 30.3,
+    "night": 22.8
+    },
+    "March": {
+    "day": 30,
+    "night": 24.2
+    },
+    "April": {
+    "day": 29.4,
+    "night": 24.4
+    },
+    "May": {
+    "day": 28.7,
+    "night": 24.1
+    }
+    }
+    ]
+    },
+
+    {
+    "state": "Ekiti",
+    "Location": [
+    {
+    "name": "Ado Ekiti",
+    "January": {
+    "day": 33.9,
+    "night": 19.4
+    },
+    "February": {
+    "day": 34.8,
+    "night": 20.5
+    },
+    "March": {
+    "day": 34.3,
+    "night": 22.4
+    },
+    "April": {
+    "day": 32.4,
+    "night": 22.7
+    },
+    "May": {
+    "day": 31.5,
+    "night": 22
+    }
+    },
+    {
+    "name": "Ide Orun",
+    "January": {
+    "day": 30.4,
+    "night": 18.9
+    },
+    "February": {
+    "day": 31.5,
+    "night": 20.7
+    },
+    "March": {
+    "day": 31.2,
+    "night": 22.6
+    },
+    "April": {
+    "day": 30.2,
+    "night": 23
+    },
+    "May": {
+    "day": 29.3,
+    "night": 22.7
+    }
+    },
+    {
+    "name": "Ijero",
+    "January": {
+    "day": 31.1,
+    "night": 18.5
+    },
+    "February": {
+        "day": 32.5,
+        "night": 20.5
+        },
+        "March": {
+        "day": 32.4,
+        "night": 22.5
+        },
+        "April": {
+        "day": 31,
+        "night": 22.9
+        },
+        "May": {
+        "day": 29.8,
+        "night": 22.5
+        }
+        },
+        {
+        "name": "Ikole",
+        "January": {
+        "day": 31.6,
+        "night": 18.6
+        },
+        "February": {
+        "day": 33.1,
+        "night": 20.6
+        },
+        "March": {
+        "day": 33.2,
+        "night": 22.8
+        },
+        "April": {
+        "day": 31.9,
+        "night": 23.1
+        },
+        "May": {
+        "day": 30.4,
+        "night": 22.7
+        }
+        }
+        ]
+        },
+
+        {
+            "state": "Ogun",
+"Location": [
+{
+"name": "Abeokuta",
+"January": {
+"day": 35,
+"night": 22
+},
+"February": {
+"day": 36,
+"night": 23.3
+},
+"March": {
+"day": 35.8,
+"night": 24.9
+},
+"April": {
+"day": 34.7,
+"night": 25.2
+},
+"May": {
+"day": 32.7,
+"night": 24.3
+}
+},
+{
+"name": "Ijebu Ode",
+"January": {
+"day": 33.3,
+"night": 22.4
+},
+"February": {
+"day": 34.6,
+"night": 23.3
+},
+"March": {
+"day": 34.4,
+"night": 24.2
+},
+"April": {
+"day": 33.4,
+"night": 24.4
+},
+"May": {
+"day": 31.6,
+"night": 23.5
+}
+},
+{
+"name": "Imeko Afon",
+"January": {
+"day": 32,
+"night": 19.8
+},
+"February": {
+"day": 33.2,
+"night": 21.9
+},
+"March": {
+"day": 32.6,
+"night": 23.3
+},
+"April": {
+"day": 31.3,
+"night": 23.5
+},
+"May": {
+"day": 30.3,
+"night": 23.1
+}
+},
+{
+"name": "Ipokia",
+"January": {
+"day": 30.8,
+"night": 22.7
+},
+"February": {
+"day": 31.3,
+"night": 24.1
+},
+"March": {
+"day": 30.7,
+"night": 24.9
+},
+"April": {
+"day": 29.9,
+"night": 24.9
+},
+"May": {
+"day": 29.2,
+"night": 24.6
+}
+},
+{
+"name": "Ogun Waterside",
+"January": {
+"day": 28.6,
+"night": 24.3
+},
+"February": {
+"day": 29.2,
+"night": 25.4
+},
+"March": {
+"day": 29.1,
+"night": 26.3
+},
+"April": {
+"day": 28.7,
+"night": 26.4
+},
+"May": {
+"day": 28.1,
+"night": 26.1
+}
+}
+]
+},
+
+{
+    "state": "Ondo",
+    "Location": [
+        {
+            "name": "Akoko Northwest",
+            "January": {
+            "day": 31.4,
+            "night": 18.7
+            },
+            "February": {
+            "day": 32.9,
+            "night": 20.7
+            },
+            "March": {
+            "day": 32.8,
+            "night": 22.7
+            },
+            "April": {
+            "day": 31.5,
+            "night": 23.1
+            },
+            "May": {
+            "day": 30.1,
+            "night": 22.7
+            }
+            },
+            {
+            "name": "Akure",
+            "January": {
+            "day": 33.9,
+            "night": 19.4
+            },
+            "February": {
+            "day": 34.8,
+            "night": 20.5
+            },
+            "March": {
+            "day": 34.3,
+            "night": 22.4
+            },
+            "April": {
+            "day": 32.4,
+            "night": 22.7
+            },
+            "May": {
+            "day": 31.5,
+            "night": 22
+            }
+            },
+            {
+            "name": "Ilaje Eseodo",
+            "January": {
+            "day": 29.1,
+            "night": 22.8
+            },
+            "February": {
+            "day": 29.7,
+            "night": 24.2
+            },
+            "March": {
+            "day": 29.5,
+            "night": 25.4
+            },
+            "April": {
+            "day": 29,
+            "night": 25.5
+            },
+            "May": {
+            "day": 28.3,
+            "night": 25.2
+            }
+            },
+            {
+                "name": "Ondo",
+                "January": {
+                    "day": 32.2,
+"night": 21.9
+},
+"February": {
+"day": 33.7,
+"night": 22.9
+},
+"March": {
+"day": 33.2,
+"night": 23.6
+},
+"April": {
+"day": 31.7,
+"night": 23.5
+},
+"May": {
+"day": 30.5,
+"night": 22.9
+}
+},
+{
+"name": "Ose",
+"January": {
+"day": 30.4,
+"night": 19
+},
+"February": {
+"day": 31.4,
+"night": 20.9
+},
+"March": {
+"day": 31.1,
+"night": 22.7
+},
+"April": {
+"day": 30.1,
+"night": 23
+},
+"May": {
+"day": 29.2,
+"night": 22.8
+}
+},
+{
+"name": "Atakumosa East",
+"January": {
+"day": 30.1,
+"night": 19.3
+},
+"February": {
+"day": 31.2,
+"night": 21.1
+},
+"March": {
+"day": 30.7,
+"night": 22.7
+},
+"April": {
+"day": 29.6,
+"night": 23
+},
+"May": {
+"day": 28.8,
+"night": 22.7
+}
+},
+{
+"name": "Ifedayo",
+"January": {
+"day": 30.9,
+"night": 18.5
+},
+"February": {
+"day": 32.2,
+"night": 20.6
+},
+"March": {
+"day": 31.8,
+"night": 22.5
+},
+"April": {
+"day": 30.4,
+"night": 22.8
+},
+"May": {
+"day": 29.4,
+"night": 22.4
+}
+},
+{
+"name": "Ife North",
+"January": {
+"day": 30.5,
+"night": 19.8
+},
+"February": {
+"day": 31.6,
+"night": 21.7
+},
+"March": {
+"day": 30.9,
+"night": 23.1
+},
+"April": {
+"day": 29.8,
+"night": 23.4
+},
+"May": {
+"day": 29,
+"night": 23.1
+}
+},
+{
+"name": "Oshogbo",
+"January": {
+"day": 33.4,
+"night": 18.9
+},
+"February": {
+    "day":34.4,
+    "night": 20.7
+    },
+"March": {
+"day": 34.7,
+"night": 22.3
+},
+"April": {
+"day": 32.8,
+"night": 22.8
+},
+"May": {
+"day": 31.5,
+"night": 22.1
+}
+}
+]
+},
+
+{
+"state": "Oyo",
+"Location": [
+{
+"name": "Ibadan",
+"January": {
+"day": 33.1,
+"night": 21.5
+},
+"February": {
+"day": 34.6,
+"night": 22.8
+},
+"March": {
+"day": 34.7,
+"night": 23.6
+},
+"April": {
+"day": 33.1,
+"night": 23.7
+},
+"May": {
+"day": 31.6,
+"night": 22.9
+}
+},
+{
+"name": "Iseyin",
+"January": {
+"day": 33.3,
+"night": 21.2
+},
+"February": {
+"day": 34.8,
+"night": 22.1
+},
+"March": {
+"day": 34.7,
+"night": 23.3
+},
+"April": {
+"day": 33.1,
+"night": 23.3
+},
+"May": {
+"day": 31.7,
+"night": 22.7
+}
+},
+{
+"name": "Iwajowa",
+"January": {
+"day": 31.5,
+"night": 19.4
+},
+"February": {
+"day": 32.6,
+"night": 21.4
+},
+"March": {
+"day": 32.1,
+"night": 23
+},
+"April": {
+"day": 30.8,
+"night": 23.2
+},
+"May": {
+"day": 29.9,
+"night": 22.9
+}
+},
+{
+"name": "Oluyole",
+"January": {
+"day": 30.6,
+"night": 20.3
+},
+"February": {
+"day": 31.3,
+"night": 22.1
+},
+"March": {
+"day": 30.7,
+"night": 23.4
+},
+"April": {
+"day": 29.8,
+"night": 23.6
+},
+"May": {
+"day": 29.2,
+"night": 23.3
+}
+},
+{
+"name": "Shaki",
+"January": {
+"day": 33.3,
+"night": 19.7
+},
+"February": {
+"day": 34.4,
+"night": 20.8
+},
+"March": {
+"day": 34.8,
+"night": 22.6
+},
+"April": {
+"day": 33.6,
+"night": 22.9
+},
+"May": {
+"day": 31.3,
+"night": 21.8
+}
+}
+]
+},
+
+{
+"state": "Plateau",
+"Location":[
+{
+"name": "Bokkos",
+"january": {
+"day":"32.8",
+"night":"16.8"
+},
+"february": {
+"day":"34.7",
+"night": "18.9"
+},
+"march": {
+"day": "35",
+"night": "20.9"
+},
+"April": {
+"day": "32.8",
+"night": "21.6"
+},
+"may": {
+"day": "30",
+"night": "21.2"
+}
+},
+{
+"name": "Jos",
+"january": {
+"day": "27.6",
+"night": "11.6"
+},
+"february": {
+"day": "29.4",
+"night": "13.6"
+},
+"march": {
+"day": "31.6",
+"night": "16.5"
+},
+"April": {
+"day": "31.3",
+"night": "18.4"
+},
+"may": {
+"day": "28.4",
+"night": "18.1"
+}
+},
+{
+"name": "Langtang South",
+"january": {
+"day": "34.2",
+"night": "18.5"
+},
+"february": {
+"day": "36.4",
+"night": "20.9"
+},
+"march": {
+"day": "36.7",
+"night": "23.8"
+},
+"April": {
+"day": "34.3",
+"night": "24.5"
+},
+"may": {
+"day": "31.7",
+"night": "23.8"
+}
+},
+
+{
+"name": "Wase",
+"january": {
+"day": "34.7",
+"night": "17.9"
+},
+"february": {
+"day": "36.8",
+"night": "20.3"
+},
+"march": {
+"day": "37.7",
+"night": "23.5"
+},
+"April": {
+"day": "35.6",
+"night": "24.6"
+},
+"may": {
+"day": "32.6",
+"night": "23.8"
+}
+}
+]
+},
+
+
+{
+    "state": "Rivers",
+    "Location":[
+    {
+    "name": "Akukutor",
+    "january": {
+    "day":"29.8",
+    "night":"22.2"
+    },
+    "february": {
+    "day":"30.3",
+    "night": "23.4"
+    },
+    "march": {
+    "day": "29.9",
+    "night": "24.4"
+    },
+    "April": {
+    "day": "29.3",
+    "night": "24.5"
+    },
+    "may": {
+    "day": "28.9",
+    "night": "24.4"
+    }
+    },
+    {
+    "name": "Ogba Egbe",
+    "january": {
+    "day": "30",
+    "night": "20.9"
+    },
+    "february": {
+    "day": "30.7",
+    "night": "22.3"
+    },
+    "march": {
+    "day": "30.5",
+    "night": "23.7"
+    },
+    "April": {
+    "day": "30.1",
+    "night": "23.9"
+    },
+    "may": {
+    "day": "29.6",
+    "night": "23.8"
+    }
+    },
+    {
+    "name": "Opobo Nkoro",
+    "january": {
+    "day": "29.5",
+    "night": "23.2"
+    },
+    "february": {
+    "day": "29.9",
+    "night": "24.4"
+    },
+    "march": {
+    "day": "29.4",
+    "night": "25.3"
+    },
+    "April": {
+    "day": "29.1",
+    "night": "25.4"
+    },
+    "may": {
+    "day": "28.6",
+    "night": "25.2"
+    }
+    },
+    {
+    "name": "Port Harcourt",
+    "january": {
+    "day": "32.7",
+    "night": "21"
+    },
+    "february": {
+    "day": "33.8",
+    "night": "22.4"
+    },
+    "march": {
+    "day": "33.5",
+    "night": "23.2"
+    },
+    "April": {
+    "day": "32.4",
+    "night": "23.4"
+    },
+    "may": {
+    "day": "31.5",
+    "night": "23"
+    }
+    }
+    ]
+    },
+    
+
+    {
+    "state": "Sokoto",
+    "Location":[
+    {
+    "name": "Gudu North",
+    "january": {
+    "day":"32.4",
+    "night":"15.5"
+    },
+    "february": {
+    "day":"35.3",
+    "night": "17.8"
+    },
+    "march": {
+    "day": "38.8",
+    "night": "21.8"
+    },
+    "April": {
+    "day": "41.1",
+    "night": "26"
+    },
+    "may": {
+    "day": "39.8",
+    "night": "27.6"
+    }
+    },  
+{
+"name": "Illela",
+"january": {
+"day":"32.1",
+"night":"15"
+},
+"february": {
+"day":"35",
+"night": "17.3"
+},
+"march": {
+"day": "38.7",
+"night": "21.4"
+},
+"April": {
+"day": "41",
+"night": "25.5"
+},
+"may": {
+"day": "39.6",
+"night": "26.9"
+}
+},
+{
+"name": "Isa",
+"january": {
+"day":"32",
+"night":"14.7"
+},
+"february": {
+"day":"34.9",
+"night": "17"
+},
+"march": {
+"day": "38.5",
+"night": "21.3"
+},
+"April": {
+"day": "40.3",
+"night": "25.1"
+},
+"may": {
+"day": "38.6",
+"night": "26.2"
+}
+},
+{
+"name": "Kebbe",
+"january": {
+"day":"33.7",
+"night":"16.1"
+},
+"february": {
+"day":"36.4",
+"night": "18.6"
+},
+"march": {
+"day": "38.8",
+"night": "22.7"
+},
+"April": {
+"day": "38.7",
+"night": "25.9"
+},
+"may": {
+"day": "35.9",
+"night": "25.4"
+}
+},
+{
+"name": "Sokoto",
+"january": {
+"day":"32.4",
+"night":"17.4"
+},
+"february": {
+"day":"34.2",
+"night": "19.1"
+},
+"march": {
+"day": "39.6",
+"night": "23.6"
+},
+"April": {
+"day": "41.1",
+"night": "26.5"
+},
+"may": {
+"day": "39.6",
+"night": "27.3"
+}
+}
+]
+},
+
+
+{
+    "state": "Taraba",
+    "Location":[
+    {
+    "name": "Bali",
+    "january": {
+    "day":"32.6",
+    "night":"18.2"
+    },
+    "february": {
+    "day":"34.9",
+    "night": "20.2"
+    },
+    "march": {
+    "day": "34.9",
+    "night": "22.7"
+    },
+    "April": {
+    "day": "32.7",
+    "night": "23.4"
+    },
+    "may": {
+    "day": "30.1",
+    "night": "22.8"
+    }
+    },
+    {
+    "name": "Jalingo",
+    "january": {
+    "day":"34.3",
+    "night":"19.4"
+    },
+    "february": {
+    "day":"36",
+    "night": "22"
+    },
+    "march": {
+    "day": "38.1",
+    "night": "24.7"
+    },
+    "April": {
+    "day": "36.5",
+    "night": "25.6"
+    },
+    "may": {
+    "day": "33.5",
+    "night": "24.1"
+    }
+    },
+    {
+    "name": "Sardauna",
+    "january": {
+    "day":"28.9",
+    "night":"15.6"
+    },
+    "february": {
+    "day":"30.9",
+    "night": "17"
+    },
+    "march": {
+    "day": "30.9",
+    "night": "18.7"
+    },
+    "April": {
+    "day": "28.6",
+    "night": "19.2"
+    },
+    "may": {
+    "day": "26.6",
+    "night": "18.9"
+    }
+    }
+    ]
+    },
+
+    {
+        "state": "Yobe",
+        "Location":[
+        {
+        "name": "Gulani",
+        "january": {
+        "day":"34",
+        "night":"16.2"
+        },
+        "february": {
+        "day":"36.3",
+        "night": "18.4"
+        },
+        "march": {
+        "day": "38.8",
+        "night": "22.2"
+        },
+        "April": {
+        "day": "38.6",
+        "night": "24.6"
+        },
+        "may": {
+        "day": "35.6",
+        "night": "24.2"
+        }
+        },
+        {
+        "name": "Nguru",
+        "january": {
+        "day":"30.6",
+        "night":"14.3"
+        },
+        "february": {
+        "day":"32.4",
+        "night": "15.8"
+        },
+        "march": {
+        "day": "38.2",
+        "night": "20.4"
+        },
+        "April": {
+        "day": "40.2",
+        "night": "23.6"
+        },
+        "may": {
+        "day": "40.5",
+        "night": "25.5"
+        }
+        },
+
+        {
+            "name": "Potiskum",
+            "january": {
+            "day":"31.1",
+            "night":"13.7"
+            },
+            "february": {
+            "day":"33.1",
+            "night": "15.1"
+            },
+            "march": {
+            "day": "38.9",
+            "night": "19.5"
+            },
+            "April": {
+            "day": "40.3",
+            "night": "23.5"
+            },
+            "may": {
+            "day": "38.9",
+            "night": "25.2"
+            }
+            },
+            {
+            "name": "Tarmuwa",
+            "january": {
+            "day":"31.7",
+            "night":"14.3"
+            },
+            "february": {
+            "day":"34.5",
+            "night": "16.6"
+            },
+            "march": {
+            "day": "38.3",
+            "night": "21.2"
+            },
+            "April": {
+            "day": "40.6",
+            "night": "25.1"
+            },
+            "may": {
+            "day": "39.3",
+            "night": "26.2"
+            }
+            },
+            {
+            "name": "Yunusari",
+            "january": {
+            "day":"30.7",
+            "night":"13.5"
+            },
+            "february": {
+            "day":"33.5",
+            "night": "15.8"
+            },
+            "march": {
+            "day": "37.7",
+            "night": "20.6"
+            },
+            "April": {
+            "day": "41",
+            "night": "24.9"
+            },
+            "may": {
+            "day": "40.5",
+            "night": "26.7"
+            }
+            }
+            ]
+            },
+
+
+            {
+                "state": "Zamfara",
+                "Location":[
+                {
+                "name": "Gummi",
+                "january": {
+                "day":"33.4",
+                "night":"15.8"
+                },
+                "february": {
+                "day":"36.2",
+                "night": "18.3"
+                },
+                "march": {
+                "day": "38.5",
+                "night": "22.2"
+                },
+                "April": {
+                "day": "38.2",
+                "night": "25.3"
+                },
+                "may": {
+                "day": "35.4",
+                "night": "24.9"
+                }
+                },
+
+                {
+                    "name": "Gusau",
+                    "january": {
+                    "day":"31.6",
+                    "night":"15.8"
+                    },
+                    "february": {
+                    "day":"33.2",
+                    "night": "16.9"
+                    },
+                    "march": {
+                    "day": "38.3",
+                    "night": "21"
+                    },
+                    "April": {
+                    "day": "39.1",
+                    "night": "23.2"
+                    },
+                    "may": {
+                    "day": "37.3",
+                    "night": "24.4"
+                    }
+                    },
+                    {
+                    "name": "Maru",
+                    "january": {
+                    "day":"32.2",
+                    "night":"15"
+                    },
+                    "february": {
+                    "day":"35",
+                    "night": "17.4"
+                    },
+                    "march": {
+                    "day": "37.5",
+                    "night": "21.2"
+                    },
+                    "April": {
+                    "day": "37.3",
+                    "night": "23.9"
+                    },
+                    "may": {
+                    "day": "34.7",
+                    "night": "23.8"
+                    }
+                    },
+                    {
+                    "name": "Shinkafi",
+                    "january": {
+                    "day":"32",
+                    "night":"14.7"
+                    },
+                    "february": {
+                    "day":"34.9",
+                    "night": "17"
+                    },
+                    "march": {
+                    "day": "38.5",
+                    "night": "21.3"
+                    },
+                    "April": {
+                    "day": "40.3",
+                    "night": "25.1"
+                    },
+                    "may": {
+                    "day": "38.6",
+                    "night": "26.2"
+                    }
+                    }
+                    ]
+                    }
+]

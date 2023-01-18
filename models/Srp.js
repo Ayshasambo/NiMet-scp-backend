@@ -4,7 +4,7 @@ const srpSchema = new mongoose.Schema({
    statename: {
      type: String
    },
-   city:[{
+   location:[{
     name:{
       type: String
     },
