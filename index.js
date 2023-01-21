@@ -4,6 +4,7 @@ const srpRoute = require('./routes/srp.js');
 const tempRoute = require('./routes/temp.js');
 const cropRoute = require('./routes/crop.js');
 const stateRoute = require('./routes/state.js');
+const alertRoute = require('./routes/alert.js');
 const mongoose = require('mongoose');
 const { application } = require('express');
 require('dotenv/config');
@@ -22,6 +23,7 @@ app.use('/api/srp', srpRoute);
 app.use('/api/temp', tempRoute);
 app.use('/api/crop', cropRoute);
 app.use('/api/state', stateRoute);
+app.use('/api/alert', alertRoute);
 
 
 
