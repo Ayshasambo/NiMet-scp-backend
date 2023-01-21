@@ -50,17 +50,6 @@ const tempSchema = new mongoose.Schema({
             }
         }
     }]
-    // month:[{
-    //     day:{
-    //         type: String
-    //     },
-    //     night:{
-    //         type: String
-    //     }
-    // }]
-
-
-    
 });
 
 

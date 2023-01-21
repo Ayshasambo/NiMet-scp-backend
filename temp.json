@@ -1359,6 +1359,1644 @@
         },
 
         {
+            "state":"edo",    
+            "location": [
+                {
+                    "name": "Akoko Edo",
+                    "january": {
+                        "day": "31",
+                        "night": "18.9"
+                    },
+                    "february": {
+                        "day": "32.2",
+                        "night": "20.9"
+                    },
+                    "march": {
+                        "day": "32.1",
+                        "night": "23"
+                    },
+                    "April": {
+                        "day": "31.1",
+                        "night": "23.3"
+                    },
+                    "may": {
+                        "day": "30.1",
+                        "night": "23"
+                    }
+                },
+                {
+                    "name": "Benin",
+                    "january": {
+                        "day": "33.2",
+                        "night": "22.6"
+                    },
+                    "february": {
+                        "day": "34.6",
+                        "night": "23.8"
+                    },
+                    "march": {
+                        "day": "34.3",
+                        "night": "24.3"
+                    },
+                    "April": {
+                        "day": "33.3",
+                        "night": "24.3"
+                    },
+                    "may": {
+                        "day": "32",
+                        "night": "23.5"
+                    }
+                },
+                {
+                    "name": "Esan East",
+                    "january": {
+                        "day": "30.1",
+                        "night": "19.2"
+                    },
+                    "february": {
+                        "day": "31",
+                        "night": "21"
+                    },
+                    "march": {
+                        "day": "30.7",
+                        "night": "23"
+                    },
+                    "April": {
+                        "day": "30.1",
+                        "night": "23.4"
+                    },
+                    "may": {
+                        "day": "29.4",
+                        "night": "23.1"
+                    }
+                },
+                {
+                    "name": "Ovia Southwest",
+                    "january": {
+                        "day": "29.6",
+                        "night": "21.1"
+                    },
+                    "february": {
+                        "day": "30.3",
+                        "night": "22.8"
+                    },
+                    "march": {
+                        "day": "30",
+                        "night": "24.2"
+                    },
+                    "April": {
+                        "day": "29.4",
+                        "night": "24.4"
+                    },
+                    "may": {
+                        "day": "28.7",
+                        "night": "24.1"
+                    }
+                }
+            ]
+        },
+        
+        {
+            "state":"edo",
+            "location": [
+                {
+                    "name": "Ado Ekiti",
+                    "january": {
+                        "day": "33.9",
+                        "night": "19.4"
+                    },
+                    "february": {
+                        "day": "34.8",
+                        "night": "20.5"
+                    },
+                    "march": {
+                        "day": "34.3",
+                        "night": "22.4"
+                    },
+                    "April": {
+                        "day": "32.4",
+                        "night": "22.7"
+                    },
+                    "may": {
+                        "day": "31.5",
+                        "night": "22"
+                    }
+                },
+                {
+                    "name": "Ide Orun",
+                    "january": {
+                        "day": "30.4",
+                        "night": "18.9"
+                    },
+                    "february": {
+                        "day": "31.5",
+                        "night": "20.7"
+                    },
+                    "march": {
+                        "day": "31.2",
+                        "night": "22.6"
+                    },
+                    "April": {
+                        "day": "30.2",
+                        "night": "23"
+                    },
+                    "may": {
+                        "day": "29.3",
+                        "night": "22.7"
+                    }
+                },
+                {
+                    "name": "Ijero",
+                    "january": {
+                        "day": "31.1",
+                        "night": "18.5"
+                    },
+                    "february": {
+                        "day": "32.5",
+                        "night": "20.5"
+                    },
+                    "march": {
+                        "day": "32.4",
+                        "night": "22.5"
+                    },
+                    "April": {
+                        "day": "31",
+                        "night": "22.9"
+                    },
+                    "may": {
+                        "day": "29.8",
+                        "night": "22.5"
+                    }
+                },
+                {
+                    "name": "Ikole",
+                    "january": {
+                        "day": "31.6",
+                        "night": "18.6"
+                    },
+                    "february": {
+                        "day": "33.1",
+                        "night": "20.6"
+                    },
+                    "march": {
+                        "day": "33.2",
+                        "night": "22.8"
+                    },
+                    "April": {
+                        "day": "31.9",
+                        "night": "23.1"
+                    },
+                    "may": {
+                        "day": "30.4",
+                        "night": "22.7"
+                    }
+                }
+            ]
+        },
+        
+             {
+            "state":"Enugu",
+            "location": [
+                {
+                    "name": "Aninri",
+                    "january": {
+                        "day": "29.9",
+                        "night": "19.2"
+                    },
+                    "february": {
+                        "day": "31",
+                        "night": "21"
+                    },
+                    "march": {
+                        "day": "30.8",
+                        "night": "23.2"
+                    },
+                    "April": {
+                        "day": "30.3",
+                        "night": "23.6"
+                    },
+                    "may": {
+                        "day": "29.5",
+                        "night": "23.5"
+                    }
+                },
+                {
+                    "name": "Enugu",
+                    "january": {
+                        "day": "33.5",
+                        "night": "20.6"
+                    },
+                    "february": {
+                        "day": "34.9",
+                        "night": "22.8"
+                    },
+                    "march": {
+                        "day": "35.3",
+                        "night": "24.2"
+                    },
+                    "April": {
+                        "day": "33.5",
+                        "night": "24"
+                    },
+                    "may": {
+                        "day": "31.8",
+                        "night": "22.9"
+                    }
+                },
+                {
+                    "name": "Igboeze North",
+                    "january": {
+                        "day": "30.7",
+                        "night": "18.4"
+                    },
+                    "february": {
+                        "day": "32.2",
+                        "night": "20.5"
+                    },
+                    "march": {
+                        "day": "31.9",
+                        "night": "22.9"
+                    },
+                    "April": {
+                        "day": "31",
+                        "night": "23.5"
+                    },
+                    "may": {
+                        "day": "29.9",
+                        "night": "23.2"
+                    }
+                },
+                {
+                    "name": "Uzo Uwani",
+                    "january": {
+                        "day": "30",
+                        "night": "18.8"
+                    },
+                    "february": {
+                        "day": "31.1",
+                        "night": "20.7"
+                    },
+                    "march": {
+                        "day": "30.9",
+                        "night": "23"
+                    },
+                    "April": {
+                        "day": "30.4",
+                        "night": "23.5"
+                    },
+                    "may": {
+                        "day": "29.6",
+                        "night": "23.3"
+                    }
+                }
+            ]
+        },
+        
+        {
+            "state":"FCT",
+            "location": [
+                {
+                    "name": "Abaji",
+                    "january": {
+                        "day": "32.8",
+                        "night": "17.9"
+                    },
+                    "february": {
+                        "day": "34.1",
+                        "night": "20.2"
+                    },
+                    "march": {
+                        "day": "34.7",
+                        "night": "23.4"
+                    },
+                    "April": {
+                        "day": "33.3",
+                        "night": "24.4"
+                    },
+                    "may": {
+                        "day": "31.3",
+                        "night": "23.8"
+                    }
+                },
+                {
+                    "name": "Abuja",
+                    "january": {
+                        "day": "34.9",
+                        "night": "18.6"
+                    },
+                    "february": {
+                        "day": "36.1",
+                        "night": "21.2"
+                    },
+                    "march": {
+                        "day": "37.1",
+                        "night": "23.7"
+                    },
+                    "April": {
+                        "day": "35.8",
+                        "night": "24"
+                    },
+                    "may": {
+                        "day": "32.8",
+                        "night": "23.2"
+                    }
+                },
+                {
+                    "name": "Bwari",
+                    "january": {
+                        "day": "32.2",
+                        "night": "16.7"
+                    },
+                    "february": {
+                        "day": "34",
+                        "night": "18.9"
+                    },
+                    "march": {
+                        "day": "34.5",
+                        "night": "21.9"
+                    },
+                    "April": {
+                        "day": "32.4",
+                        "night": "23.1"
+                    },
+                    "may": {
+                        "day": "30.3",
+                        "night": "22.7"
+                    }
+                },
+                {
+                    "name": "Kuje",
+                    "january": {
+                        "day": "32.6",
+                        "night": "17.8"
+                    },
+                    "february": {
+                        "day": "34.1",
+                        "night": "20.1"
+                    },
+                    "march": {
+                        "day": "34.6",
+                        "night": "23"
+                    },
+                    "April": {
+                        "day": "32.7",
+                        "night": "23.9"
+                    },
+                    "may": {
+                        "day": "30.8",
+                        "night": "23.4"
+                    }
+                }
+            ]
+        },
+        
+        {
+        "state":"Gombe",
+            "location": [
+                {
+                    "name": "Balanga",
+                    "january": {
+                        "day": "34.3",
+                        "night": "16.5"
+                    },
+                    "february": {
+                        "day": "36.9",
+                        "night": "19.3"
+                    },
+                    "march": {
+                        "day": "38.3",
+                        "night": "23.1"
+                    },
+                    "April": {
+                        "day": "36.2",
+                        "night": "24.9"
+                    },
+                    "may": {
+                        "day": "33.2",
+                        "night": "24.2"
+                    }
+                },
+                {
+                    "name": "Dukku",
+                    "january": {
+                        "day": "32.5",
+                        "night": "14.7"
+                    },
+                    "february": {
+                        "day": "35.1",
+                        "night": "17.1"
+                    },
+                    "march": {
+                        "day": "38",
+                        "night": "21.4"
+                    },
+                    "April": {
+                        "day": "38.5",
+                        "night": "24.6"
+                    },
+                    "may": {
+                        "day": "35.7",
+                        "night": "24.3"
+                    }
+                },
+                {
+                    "name": "Gombe",
+                    "january": {
+                        "day": "30.8",
+                        "night": "15.7"
+                    },
+                    "february": {
+                        "day": "32.7",
+                        "night": "17.7"
+                    },
+                    "march": {
+                        "day": "37.3",
+                        "night": "21.8"
+                    },
+                    "April": {
+                        "day": "38",
+                        "night": "24.2"
+                    },
+                    "may": {
+                        "day": "35.7",
+                        "night": "23.8"
+                    }
+                },
+                {
+                    "name": "Shomgom",
+                    "january": {
+                        "day": "33.4",
+                        "night": "15.7"
+                    },
+                    "february": {
+                        "day": "36.2",
+                        "night": "18.5"
+                    },
+                    "march": {
+                        "day": "37.7",
+                        "night": "22.5"
+                    },
+                    "April": {
+                        "day": "35.8",
+                        "night": "24.4"
+                    },
+                    "may": {
+                        "day": "32.8",
+                        "night": "23.7"
+                    }
+                }
+            ]
+        },
+        
+        {
+        "state":"Imo",
+            "location": [
+                {
+                    "name": "Ideato North",
+                    "january": {
+                        "day": "29.7",
+                        "night": "19.9"
+                    },
+                    "february": {
+                        "day": "30.6",
+                        "night": "21.5"
+                    },
+                    "march": {
+                        "day": "30.4",
+                        "night": "23.3"
+                    },
+                    "April": {
+                        "day": "30.1",
+                        "night": "23.7"
+                    },
+                    "may": {
+                        "day": "29.4",
+                        "night": "23.5"
+                    }
+                },
+                {
+                    "name": "Ngorokpala",
+                    "january": {
+                        "day": "29.9",
+                        "night": "20.6"
+                    },
+                    "february": {
+                        "day": "30.7",
+                        "night": "22.1"
+                    },
+                    "march": {
+                        "day": "30.4",
+                        "night": "23.6"
+                    },
+                    "April": {
+                        "day": "30",
+                        "night": "23.8"
+                    },
+                    "may": {
+                        "day": "29.5",
+                        "night": "23.6"
+                    }
+                },
+                {
+                    "name": "Obowo",
+                    "january": {
+                        "day": "29.7",
+                        "night": "20"
+                    },
+                    "february": {
+                        "day": "30.6",
+                        "night": "21.6"
+                    },
+                    "march": {
+                        "day": "30.4",
+                        "night": "23.3"
+                    },
+                    "April": {
+                        "day": "30",
+                        "night": "23.6"
+                    },
+                    "may": {
+                        "day": "29.5",
+                        "night": "23.5"
+                    }
+                },
+                {
+                    "name": "Owerri",
+                    "january": {
+                        "day": "33.5",
+                        "night": "22.6"
+                    },
+                    "february": {
+                        "day": "34.7",
+                        "night": "24"
+                    },
+                    "march": {
+                        "day": "34.7",
+                        "night": "24.3"
+                    },
+                    "April": {
+                        "day": "33.5",
+                        "night": "24.3"
+                    },
+                    "may": {
+                        "day": "32.1",
+                        "night": "23.7"
+                    }
+                }
+            ]
+        },
+        
+        {
+        "state":"Jigawa",
+            "location": [
+                {
+                    "name": "Dutse",
+                    "january": {
+                        "day": "29.1",
+                        "night": "13.5"
+                    },
+                    "february": {
+                        "day": "31.7",
+                        "night": "16.1"
+                    },
+                    "march": {
+                        "day": "37.3",
+                        "night": "20.4"
+                    },
+                    "April": {
+                        "day":"39",
+                        "night": "24"
+                    },
+                    "may": {
+                        "day": "38.2",
+                        "night": "25.2"
+                    }
+                },
+                {
+                    "name": "Gwaram",
+                    "january": {
+                        "day": "31.8",
+                        "night": "13.8"
+                    },
+                    "february": {
+                        "day": "34.5",
+                        "night": "16.1"
+                    },
+                    "march": {
+                        "day": "37.6",
+                        "night": "20.4"
+                    },
+                    "April": {
+                        "day": "39.1",
+                        "night": "24.2"
+                    },
+                    "may": {
+                        "day": "36.9",
+                        "night": "24.5"
+                    }
+                },
+                {
+                    "name": "Gwiwa",
+                    "january": {
+                        "day": "30.4",
+                        "night": "13.2"
+                    },
+                    "february": {
+                        "day": "33.3",
+                        "night": "15.5"
+                    },
+                    "march": {
+                        "day": "37.1",
+                        "night": "19.8"
+                    },
+                    "April": {
+                        "day": "39.4",
+                        "night": "23.6"
+                    },
+                    "may": {
+                        "day": "38.3",
+                        "night": "24.9"
+                    }
+                },
+                {
+                    "name": "Suletankarkar",
+                    "january": {
+                        "day": "30.9",
+                        "night": "13.5"
+                    },
+                    "february": {
+                        "day": "33.8",
+                        "night": "15.8"
+                    },
+                    "march": {
+                        "day": "37.8",
+                        "night": "20.3"
+                    },
+                    "April": {
+                        "day": "40.4",
+                        "night": "24.3"
+                    },
+                    "may": {
+                        "day": "39.2",
+                        "night": "25.7"
+                    }
+                }
+            ]
+        },
+        
+        {
+        "state":"Kaduna" ,
+            "location": [
+                {
+                    "name": "Birnin Gwari",
+                    "january": {
+                        "day": "30.5",
+                        "night": "14.2"
+                    },
+                    "february": {
+                        "day": "33.3",
+                        "night": "16.5"
+                    },
+                    "march": {
+                        "day": "35.5",
+                        "night": "20.1"
+                    },
+                    "April": {
+                        "day": "34.4",
+                        "night": "22.6"
+                    },
+                    "may": {
+                        "day": "31.7",
+                        "night": "22.5"
+                    }
+                },
+        
+                
+                {
+                    "name": "Kachia",
+                    "january": {
+                        "day": "32.1",
+                        "night": "15.5"
+                    },
+                    "february": {
+                        "day": "34.3",
+                        "night": "18"
+                    },
+                    "march": {
+                        "day": "35.3",
+                        "night": "20.7"
+                    },
+                    "April": {
+                        "day": "32.9",
+                        "night": "21.9"
+                    },
+                    "may": {
+                        "day": "30.1",
+                        "night": "21.6"
+                    }
+                },
+        
+                {
+                    "name": "Kaduna",
+                    "january": {
+                        "day": "31.4",
+                        "night": "15.8"
+                    },
+                    "february": {
+                        "day": "33",
+                        "night": "17.7"
+                    },
+                    "march": {
+                        "day": "36.6",
+                        "night": "21.1"
+                    },
+                    "April": {
+                        "day": "36.3",
+                        "night": "22.7"
+                    },
+                    "may": {
+                        "day": "32.9",
+                        "night": "21.9"
+                    }
+                },
+                {
+                    "name": "Lere",
+                    "january": {
+                        "day": "31.5",
+                        "night": "14"
+                    },
+                    "february": {
+                        "day": "33.4",
+                        "night": "16.1"
+                    },
+                    "march": {
+                        "day": "34.9",
+                        "night": "19.1"
+                    },
+                    "April": {
+                        "day": "34.5",
+                        "night": "21.1"
+                    },
+                    "may": {
+                        "day": "31.6",
+                        "night": "20.8"
+                    }
+                },
+                {
+                    "name": "Zaria",
+                    "january": {
+                        "day": "29.3",
+                        "night": "14.9"
+                    },
+                    "february": {
+                        "day": "31.2",
+                        "night": "16.9"
+                    },
+                    "march": {
+                        "day": "35.9",
+                        "night": "21"
+                    },
+                    "April": {
+                        "day": "36.2",
+                        "night": "23"
+                    },
+                    "may": {
+                        "day": "33.6",
+                        "night": "22.6"
+                    }
+                }
+            ]
+        },
+        {
+        "state":"Kano",
+            "location": [
+                {
+                    "name": "Dambatta",
+                    "january": {
+                        "day": "30.8",
+                        "night": "12.8"
+                    },
+                    "february": {
+                        "day": "33.7",
+                        "night": "15"
+                    },
+                    "march": {
+                        "day": "37.5",
+                        "night": "19.4"
+                    },
+                    "April": {
+                        "day": "39.7",
+                        "night": "23.4"
+                    },
+                    "may": {
+                        "day": "38.3",
+                        "night": "24.7"
+                    }
+                },
+                {
+                    "name": "Gwarzo",
+                    "january": {
+                        "day": "29.7",
+                        "night": "12.8"
+                    },
+                    "february": {
+                        "day": "32.5",
+                        "night": "15"
+                    },
+                    "march": {
+                        "day": "35.9",
+                        "night": "19.2"
+                    },
+                    "April": {
+                        "day": "37.1",
+                        "night": "22.7"
+                    },
+                    "may": {
+                        "day": "35.2",
+                        "night": "23.2"
+                    }
+                },
+                {
+                    "name": "Kano",
+                    "january": {
+                        "day": "29.1",
+                        "night": "13.5"
+                    },
+                    "february": {
+                        "day": "31.7",
+                        "night": "16.1"
+                    },
+                    "march": {
+                        "day": "37.3",
+                        "night": "20.4"
+                    },
+                    "April": {
+                        "day": "39",
+                        "night": "24"
+                    },
+                    "may": {
+                        "day": "38.2",
+                        "night": "25.2"
+                    }
+                },
+                {
+                    "name": "Sumaila",
+                    "january": {
+                        "day": "30.6",
+                        "night": "13"
+                    },
+                    "february": {
+                        "day": "33.2",
+                        "night": "15.3"
+                    },
+                    "march": {
+                        "day": "36.3",
+                        "night": "19.4"
+                    },
+                    "April": {
+                        "day": "37.4",
+                        "night": "22.9"
+                    },
+                    "may": {
+                        "day": "35.1",
+                        "night": "23.3"
+                    }
+                }
+            ]
+        },
+        
+        {
+        "state": "Katsina",
+        "location": [
+        {
+        "name": "Danmusa",
+        "january": {
+        "day": 30.7,
+        "night": 13.8
+        },
+        "february": {
+        "day": 33.5,
+        "night": 16
+        },
+        "march": {
+        "day": 36.8,
+        "night": 20.1
+        },
+        "April": {
+        "day": 38,
+        "night": 23.3
+        },
+        "may": {
+        "day": 36.2,
+        "night": 23.8
+        }
+        },
+        {
+        "name": "Katsina",
+        "january": {
+        "day": 29.3,
+        "night": 13.3
+        },
+        "february": {
+        "day": 31.9,
+        "night": 15
+        },
+        "march": {
+        "day": 37.2,
+        "night": 19.4
+        },
+        "April": {
+        "day": 39,
+        "night": 22.9
+        },
+        "may": {
+        "day": 38.8,
+        "night": 25.4
+        }
+        },
+        {
+        "name": "Sabuwa",
+        "january": {
+        "day": 29.6,
+        "night": 13.3
+        },
+        "february": {
+        "day": 32.5,
+        "night": 15.6
+        },
+        "march": {
+        "day": 35.4,
+        "night": 19.4
+        },
+        "April": {
+        "day": 35.5,
+        "night": 22.3
+        },
+        "may": {
+        "day": 33,
+        "night": 22.4
+        }
+        },
+        {
+        "name": "Zango",
+        "january": {
+        "day": 30.6,
+        "night": 13.3
+        },
+        "february": {
+        "day": 33.5,
+        "night": 15.6
+        },
+        "march": {
+        "day": 37.5,
+        "night": 20.1
+        },
+        "April": {
+        "day": 40.1,
+        "night": 24
+        },
+        "may": {
+        "day": 39,
+        "night": 25.5
+        }
+        }
+        ]
+        },
+        
+        {
+        "state": "Kebbi",
+        "location": [
+            {
+                "name": "Arewa",
+                "january": {
+                    "day": "33.6",
+                    "night": "16.3"
+                },
+                "february": {
+                    "day": "36.3",
+                    "night": "18.7"
+                },
+                "march": {
+                    "day": "39.3",
+                    "night": "22.7"
+                },
+                "April": {
+                    "day": "40.8",
+                    "night": "26.7"
+                },
+                "may": {
+                    "day": "38.7",
+                    "night": "27.1"
+                }
+            },
+            {
+                "name": "Dokonwasagu",
+                "january": {
+                    "day": "32.6",
+                    "night": "15.3"
+                },
+                "february": {
+                    "day": "35.4",
+                    "night": "17.8"
+                },
+                "march": {
+                    "day": "37.5",
+                    "night": "21.6"
+                },
+                "April": {
+                    "day": "36.6",
+                    "night": "24.1"
+                },
+                "may": {
+                    "day": "33.8",
+                    "night": "23.7"
+                }
+            },
+            {
+                "name": "Suru",
+                "january": {
+                    "day": "33.9",
+                    "night": "16.2"
+                },
+                "february": {
+                    "day": "36.6",
+                    "night": "18.7"
+                },
+                "march": {
+                    "day": "39",
+                    "night": "23"
+                },
+                "April": {
+                    "day": "39.3",
+                    "night": "26.4"
+                },
+                "may": {
+                    "day": "36.5",
+                    "night": "25.8"
+                }
+            },
+            {
+                "name": "Yelwa",
+                "january": {
+                    "day": "32.8",
+                    "night": "16.4"
+                },
+                "february": {
+                    "day": "33.7",
+                    "night": "23.8"
+                },
+                "march": {
+                    "day": "40.2",
+                    "night": "24.3"
+                },
+                "April": {
+                    "day": "33.5",
+                    "night": "24.5"
+                },
+                "may": {
+                    "day": "32.3",
+                    "night": "23.6"
+                }
+            }
+        ]
+        },
+        
+        
+        {
+            "state": "Kogi",
+            "location": [
+                {
+                    "name": "Ibaji",
+                    "january": {
+                        "day": "30.3",
+                        "night": "19.1"
+                                    },
+                                    "february": {
+                                        "day": "31.3",
+                                        "night": "21"
+                                    },
+                                    "march": {
+                                        "day": "31.1",
+                                        "night": "23.2"
+                                    },
+                                    "April": {
+                                        "day": "30.5",
+                                        "night": "23.7"
+                                    },
+                                    "may": {
+                                        "day": "29.8",
+                                        "night": "23.4"
+                                    }
+                                },
+                                {
+                                    "name": "Lokoja",
+                                    "january": {
+                                        "day": "35",
+                                        "night": "20.4"
+                                    },
+                                    "february": {
+                                        "day": "36.6",
+                                        "night": "23"
+                                    },
+                                    "march": {
+                                        "day": "37.7",
+                                        "night": "25.7"
+                                    },
+                                    "April": {
+                                        "day": "36.1",
+                                        "night": "25.8"
+                                    },
+                                    "may": {
+                                        "day": "33.3",
+                                        "night": "24.2"
+                                    }
+                                },
+                                {
+                                    "name": "Yagba West",
+                                    "january": {
+                                        "day": "32.8",
+                                        "night": "18.8"
+                                    },
+                                    "february": {
+                                        "day": "34.4",
+                                        "night": "21"
+                                    },
+                                    "march": {
+                                        "day": "34.9",
+                                        "night": "23.4"
+                                    },
+                                    "April": {
+                                        "day": "33.6",
+                                        "night": "23.9"
+                                    },
+                                    "may": {
+                                        "day": "31.7",
+                                        "night": "23.3"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "state": "Kwara",
+                            "location": [
+                                {
+                                    "name": "Baruten",
+                                    "january": {
+                                        "day": "33.8",
+                                        "night": "18"
+                                    },
+                                    "february": {
+                                        "day": "35.6",
+                                        "night": "20.4"
+                                    },
+                                    "march": {
+                                        "day": "35.6",
+                                        "night": "22.7"
+                                    },
+                                    "April": {
+                                        "day": "33.9",
+                                        "night": "23.3"
+                                    },
+                                    "may": {
+                                        "day": "32",
+                                        "night": "22.9"
+                                    }
+                                },
+                                {
+                                    "name": "Ekiti",
+                                    "january": {
+                                        "day": "32.5",
+                                        "night": "18.5"
+                                    },
+                                    "february": {
+                                        "day": "34.1",
+                                        "night": "20.8"
+                                    },
+                                    "march": {
+                                        "day": "34.3",
+                                        "night": "23"
+                                    },
+                                              "April": {
+                                                  "day": "32.9",
+                                                  "night": "23.4"
+                                              },
+                                              "may": {
+                                                  "day": "31.1",
+                                                  "night": "23"
+                                              }
+                                          },
+                                          {
+                                              "name": "Ilorin",
+                                              "january": {
+                                                  "day": "33.9",
+                                                  "night": "20"
+                                              },
+                                              "february": {
+                                                  "day": "35.4",
+                                                  "night": "21.4"
+                                              },
+                                              "march": {
+                                                  "day": "36.1",
+                                                  "night": "23.4"
+                                              },
+                                              "April": {
+                                                  "day": "34.6",
+                                                  "night": "23.8"
+                                              },
+                                              "may": {
+                                                  "day": "32.5",
+                                                  "night": "22.8"
+                                              }
+                                          },
+                                          {
+                                              "name": "Pategi",
+                                              "january": {
+                                                  "day": "33.5",
+                                                  "night": "18.4"
+                                              },
+                                              "february": {
+                                                  "day": "35.1",
+                                                  "night": "20.9"
+                                              },
+                                              "march": {
+                                                  "day": "35.9",
+                                                  "night": "24"
+                                              },
+                                              "April": {
+                                                  "day": "34.9",
+                                                  "night": "24.8"
+                                              },
+                                              "may": {
+                                                  "day": "32.7",
+                                                  "night": "24.2"
+                                              }
+                                          }
+                                      ]
+                                  },
+                                  {
+                                      "state": "Lagos",
+                                      "location": [
+                                          {
+                                              "name": "Badagry",
+                                              "january": {
+                                                  "day": "33",
+                                                  "night": "23.6"
+                                              },
+                                              "february": {
+                                                  "day": "34.1",
+                                                  "night": "24.5"
+                                              },
+                                              "march": {
+                                                  "day": "32.9",
+                                                  "night": "26.2"
+                                              },
+                                              "April": {
+                                                  "day": "32.9",
+                                                  "night": "26.1"
+                                              },
+                                              "may": {
+                                                  "day": "32.1",
+                                                  "night": "25"
+                                              }
+                                          },
+                                          {
+                                              "name": "Ikeja",
+                                              "january": {
+                                                  "day": "32.3",
+                                                  "night": "23.4"
+                                              },
+                                              "february": {
+                                                  "day": "33.7",
+                                                  "night": "24.4"
+                                              },
+                                              "march": {
+                                                  "day": "33.8",
+                                                  "night": "25.2"
+                                              },
+                                              "April": {
+                                                  "day": "33.1",
+                                                  "night": "25.4"
+                                              },
+                                              "may": {
+                                                  "day": "31.5",
+                                                  "night": "24.3"
+                                              }
+                                          },
+                                          {
+                                              "name": "Ikorodu",
+                                                          "january": {
+                                                              "day": "31.9",
+                                                              "night": "24.1"
+                                                          },
+                                                          "february": {
+                                                              "day": "32.9",
+                                                              "night": "25.1"
+                                                          },
+                                                          "march": {
+                                                              "day": "33.5",
+                                                              "night": "26"
+                                                          },
+                                                          "April": {
+                                                              "day": "33.6",
+                                                              "night": "26.1"
+                                                          },
+                                                          "may": {
+                                                              "day": "32.5",
+                                                              "night": "24.8"
+                                                          }
+                                                      },
+                                                      {
+                                                          "name": "Lagos Island",
+                                                          "january": {
+                                                              "day": "30.7",
+                                                              "night": "24"
+                                                          },
+                                                          "february": {
+                                                              "day": "31.5",
+                                                              "night": "24.8"
+                                                          },
+                                                          "march": {
+                                                              "day": "32",
+                                                              "night": "25.4"
+                                                          },
+                                                          "April": {
+                                                              "day": "31.5",
+                                                              "night": "25.2"
+                                                          },
+                                                          "may": {
+                                                              "day": "30.8",
+                                                              "night": "24.2"
+                                                          }
+                                                      }
+                                                  ]
+                                              },
+        
+                                              {
+                                                  "state": "Nasarawa",
+                                                  "location": [
+                                                      {
+                                                          "name": "Akwanga",
+                                                          "january": {
+                                                              "day": 33.5,
+                                                              "night": 17.3
+                                                          },
+                                                          "february": {
+                                                              "day": 35.6,
+                                                              "night": 19.6
+                                                          },
+                                                          "march": {
+                                                              "day": 35.9,
+                                                              "night": 21.9
+                                                          },
+                                                          "April": {
+                                                              "day": 33.3,
+                                                              "night": 22.6
+                                                          },
+                                                          "may": {
+                                                              "day": 30.5,
+                                                              "night": 22.1
+                                                          }
+                                                      },
+                                                      {
+                                                          "name": "Awe",
+                                                          "january": {
+                                                              "day": 32.7,
+                                                              "night": 18.3
+                                                          },
+                                                          "february": {
+                                                              "day": 34.9,
+                                                              "night": 20.6
+                                                          },
+                                                          "march": {
+                                                              "day": 35.3,
+                                                              "night": 23.7
+                                                          },
+                                                          "April": {
+                                                              "day": 33.3,
+                                                              "night": 24.5
+                                                          },
+                                                          "may": {
+                                                              "day": 31.3,
+                                                              "night": 24
+                                                          }
+                                                      },
+                                                      {
+                                                          "name": "Doma",
+                                                          "january": {
+                                                              "day": 32.8,
+                                                              "night": 18.3
+                                                          },
+                                                          "february": {
+                                                              "day": 34.7,
+                                                              "night": 20.7
+                                                          },
+                                                          "march": {
+                                                              "day": 35.2,
+                                                              "night": 23.7
+                                                          },
+                                                          "April": {
+                                                              "day": 33.4,
+                                                              "night": 24.4
+                                                          },
+                                                          "may": {
+                                                              "day": 31.4,
+                                                              "night": 23.8
+                                                          }
+                                                      },
+                                                      {
+                                                          "name": "Lafia",
+                                                          "january": {
+                                                              "day": 35.6,
+                                                              "night": 19.2
+                                                          },
+                                                          "february": {
+                                                              "day": 36.9,
+                                                              "night": 21.9
+                                                          },
+                                                          "march": {
+                                                              "day": 38,
+                                                              "night": 25.2
+                                                          },
+                                                          "April": {
+                                                              "day": 36.6,
+                                                              "night": 25.8
+                                                          },
+                                                          "may": {
+                                                              "day": 33.2,
+                                                              "night": 24.1
+                                                          }
+                                                      }
+                                                  ]
+                                              },
+                                              {
+                                                  "state": "Niger",
+                                                  "location": [
+                                                      {
+                                                          "name": "Bida",
+                                                          "january": {
+                                                              "day": 35.3,
+                                                              "night": 21.5
+                                                          },
+                                                          "february": {
+                                                              "day": 37.1,
+                                                              "night": 23.6
+                                                          },
+                                                          "march": {
+                                                              "day": 38.7,
+                                                              "night": 26.2
+                                                          },
+                                                          "April": {
+                                                              "day": 37.6,
+                                                                         "night": 26.3
+                                                                     },
+                                                                     "may": {
+                                                                         "day": 34.3,
+                                                                         "night": 24.6
+                                                                     }
+                                                                 },
+                                                                 {
+                                                                     "name": "Borgu",
+                                                                     "january": {
+                                                                         "day": 33,
+                                                                         "night": 17.2
+                                                                     },
+                                                                     "february": {
+                                                                         "day": 35.4,
+                                                                         "night": 19.7
+                                                                     },
+                                                                     "march": {
+                                                                         "day": 37.2,
+                                                                         "night": 23.8
+                                                                     },
+                                                                     "April": {
+                                                                         "day": 36.8,
+                                                                         "night": 25.6
+                                                                     },
+                                                                     "may": {
+                                                                         "day": 34.3,
+                                                                         "night": 24.8
+                                                                     }
+                                                                 },
+                                                                 {
+                                                                     "name": "Lapai",
+                                                                     "january": {
+                                                                         "day": 32.8,
+                                                                         "night": 17.9
+                                                                     },
+                                                                     "february": {
+                                                                         "day": 34.1,
+                                                                         "night": 20.2
+                                                                     },
+                                                                     "march": {
+                                                                         "day": 34.7,
+                                                                         "night": 23.3
+                                                                     },
+                                                                     "April": {
+                                                                         "day": 33.3,
+                                                                         "night": 24.3
+                                                                     },
+                                                                     "may": {
+                                                                         "day": 31.3,
+                                                                         "night": 23.8
+                                                                     }
+                                                                 },
+                                                                 {
+                                                                     "name": "Magama",
+                                                                     "january": {
+                                                                         "day": 32.8,
+                                                                         "night": 16.4
+                                                                     },
+                                                                     "february": {
+                                                                         "day": 35.2,
+                                                                         "night": 19
+                                                                     },
+                                                                     "march": {
+                                                                         "day": 36.8,
+                                                                         "night": 23
+                                                                     },
+                                                                     "April": {
+                                                                         "day": 36.2,
+                                                                         "night": 25.2
+                                                                     },
+                                                                     "may": {
+                                                                         "day": 33.5,
+                                                                         "night": 24.4
+                                                                     }
+                                                                 },
+                                                                 {
+                                                                     "name": "Mashigi",
+                                                                     "january": {
+                                                                         "day": 33.7,
+                                                                         "night": 17.2
+                                                                     },
+                                                                     "february": {
+                                                                         "day": 35.8,
+                                                                         "night": 19.8
+                                                                     },
+                                                                     "march": {
+                                                                         "day": 36.9,
+                                                                         "night": 23.5
+                                                                     },
+                                                                     "April": {
+                                                                         "day": 36.1,
+                                                                         "night": 25
+                                                                     },
+                                                                     "may": {
+                                                                         "day": 33.7,
+                                                                         "night": 24.4
+                                                                     }
+                                                                 },
+                                                                 {
+                                                                     "name": "Minna",
+                                                                     "january": {
+                                                                         "day": 34.5,
+                                                                         "night": 20.6
+                                                                     },
+                                                                     "february": {
+                                                                         "day": 36.1,
+                                                                         "night": 23
+                                                                     },
+                                                                     "march": {
+                                                                         "day": 38.4,
+                                                                         "night": 25
+                                                                     },
+                                                                     "April": {
+                                                                         "day": 36.7,
+                                                                         "night": 25.4
+                                                                     },
+                                                                                "may": {
+                                                                                    "day": 33.5,
+                                                                                    "night": 23.6
+                                                                                }
+                                                                            },
+                                                                            {
+                                                                                "name": "Rijaw",
+                                                                                "january": {
+                                                                                    "day": 33.2,
+                                                                                    "night": 15.8
+                                                                                },
+                                                                                "february": {
+                                                                                    "day": 36,
+                                                                                    "night": 18.3
+                                                                                },
+                                                                                "march": {
+                                                                                    "day": 38,
+                                                                                    "night": 22.3
+                                                                                },
+                                                                                "April": {
+                                                                                    "day": 37.2,
+                                                                                    "night": 25
+                                                                                },
+                                                                                "may": {
+                                                                                    "day": 34.1,
+                                                                                    "night": 24.3
+                                                                                }
+                                                                            }
+                                                                        ]
+                                                                    },
+        
+
+        {
             "state": "Ogun",
 "Location": [
 {

@@ -1,0 +1,148 @@
+{
+    "statename": "Ogun",
+    "location": [
+      {
+        "name": "Abeokuta South",
+        "onset": "12-Apr",
+        "seasonend": "28-Nov",
+        "seasonlength": 231,
+        "annualrainfall": 1675
+      },
+      {
+        "name": "Abeokuta North",
+        "onset": "11-Apr",
+        "seasonend": "28-Nov",
+        "seasonlength": 232,
+        "annualrainfall": 1699
+      },
+      {
+        "name": "Ado-Odo/Ota",
+        "onset": "03-Apr",
+        "seasonend": "02-Dec",
+        "seasonlength": 244,
+        "annualrainfall": 1901
+      },
+      {
+        "name": "Egbado North",
+        "onset": "10-Apr",
+        "seasonend": "28-Nov",
+        "seasonlength": 233,
+        "annualrainfall": 1713
+      },
+      {
+        "name": "Egbado South",
+        "onset": "06-Apr",
+        "seasonend": "01-Dec",
+        "seasonlength": 240,
+        "annualrainfall": 1829
+      },
+      {
+        "name": "Ewekoro",
+        "onset": "08-Apr",
+        "seasonend": "30-Nov",
+        "seasonlength": 237,
+        "annualrainfall": 1774
+      },
+      {
+        "name": "Ifo",
+        "onset": "05-Apr",
+        "seasonend": "01-Dec",
+        "seasonlength": 241,
+        "annualrainfall": 1845
+      },
+      {
+        "name": "Ijebu North-East",
+        "onset": "07-Apr",
+        "seasonend": "30-Nov",
+        "seasonlength": 238,
+        "annualrainfall": 1802
+      },
+      {
+        "name": "Ijebu East",
+        "onset": "05-Apr",
+        "seasonend": "01-Dec",
+        "seasonlength": 241,
+        "annualrainfall": 1843
+      },
+      {
+        "name": "Ijebu North",
+        "onset": "09-Apr",
+        "seasonend": "29-Nov",
+        "seasonlength": 236,
+        "annualrainfall": 1755
+      },
+      {
+        "name": "Ijebu Ode",
+        "onset": "06-Apr",
+        "seasonend": "01-Dec",
+        "seasonlength": 240,
+        "annualrainfall": 1837
+      },
+  
+      {
+        "name": "Ikenne",
+        "onset": "07-Apr",
+        "seasonend": "30-Nov",
+        "seasonlength": 238,
+        "annualrainfall": 1786
+      },
+      {
+        "name": "Imeko-Afon",
+        "onset": "17-Apr",
+        "seasonend": "25-Nov",
+        "seasonlength": 222,
+        "annualrainfall": 1541
+      },
+      {
+        "name": "Ipokia",
+        "onset": "03-Apr",
+        "seasonend": "02-Dec",
+        "seasonlength": 244,
+        "annualrainfall": 1901
+      },
+      {
+        "name": "Obafemi-Owode",
+        "onset": "08-Apr",
+        "seasonend": "30-Nov",
+        "seasonlength": 237,
+        "annualrainfall": 1775
+      },
+      {
+        "name": "Odeda",
+        "onset": "12-Apr",
+        "seasonend": "27-Nov",
+        "seasonlength": 230,
+        "annualrainfall": 1658
+      },
+      
+      {
+        "name": "Odogbolu",
+        "onset": "06-Apr",
+        "seasonend": "01-Dec",
+        "seasonlength": 240,
+        "annualrainfall": 1824
+      },
+      {
+        "name": "Ogun Waterside",
+        "onset": "31-Mar",
+        "seasonend": "04-Dec",
+        "seasonlength": 249,
+        "annualrainfall": 1988
+      },
+      {
+        "name": "Remo-North",
+        "onset": "08-Apr",
+        "seasonend": "29-Nov",
+        "seasonlength": 236,
+        "annualrainfall": 1759
+      },
+      {
+        "name": "Shagamu",
+        "onset": "06-Apr",
+        "seasonend": "01-Dec",
+        "seasonlength": 240,
+        "annualrainfall": 1825
+      }
+    ]
+  }
+  
