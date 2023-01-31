@@ -6,7 +6,7 @@ const Temp = require('../models/Temp.js')
 //GET POST
 router.get('/', async (req, res) => {
   try{
-     const getTemp = await Temp.find().sort({statename: 1});
+     const getTemp = await Temp.find().sort({state: 1});
       res.json(getTemp)
   }
   catch(err){
