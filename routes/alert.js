@@ -49,7 +49,7 @@ router.get("/", async (req, res) => {
   const query = req.query.new;
     try {
       const alerts = query
-        ? await Alert.find().sort({ _id: -1 }).limit(5)
+        ? await Alert.find().sort({ createdAt: -1 }).limit(5)
         : await Alert.find();
       res.status(200).json(alerts);
     } catch (err) {
