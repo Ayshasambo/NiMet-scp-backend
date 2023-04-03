@@ -44,14 +44,13 @@ router.post("/", upload.array('impactbasedimages', 3), async (req, res) => {
    });
   
   });
-  
   //create a new impactbased document
   const newFile = new Impactbased({
     startDate: req.body.startDate,
     endDate: req.body.endDate,
-    alerts:req.body.alerts,
+    //alerts:req.body.alerts,
     impactbasedimages: req.files,//impactbasedimages,
-    brief: req.body.brief
+    //brief: req.body.brief
  });
  try {
     const savedFile = await newFile.save();
@@ -62,6 +61,82 @@ router.post("/", upload.array('impactbasedimages', 3), async (req, res) => {
   }
        
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
+//ADD NEW IMPACT
+// router.post("/", upload.array('impactbasedimages', 3), async (req, res) => {
+//   // script that replaces the images in the uploads folder
+//   const replaceImages = () => {
+
+//     fs.readdir(uploadsPath, (err, files) => {
+//       if (err) {
+//         console.log(err);
+//       } else {
+//         files.forEach(file => {
+//           fs.unlinkSync(path.join(uploadsPath, file))
+//         });
+//       }
+//     });
+
+    // fs.readdir(uploadsPath, (err, files) => {
+    //   if (err) {
+    //       console.log(err);
+    //   } else {
+    //   // delete the current images
+    //   files.forEach(file => {
+    //     fs.unlinkSync(path.join(uploadsPath, file))
+    //   });
+    //  }
+      
+    // });
+
+  // add the new images to the uploads folder
+//   if(req.files && req.files.length){
+//     req.files.forEach(file => {
+//       if(file && file.buffer){
+//         fs.writeFile(`./uploads/${file.originalname}`, file.buffer, err => {
+//           if (err) {
+//             console.log(err);
+//           }
+//         });
+//       }
+//     });
+//   }
+// }
+
+  
+
+//   const newFile = new Impactbased({
+//     startDate:req.body.startDate,
+//     endDate: req.body.endDate,
+//     alerts:[{
+//       watch: req.body.watch,
+//       warning: req.body.warning,
+//       advisory: req.body.advisory
+//     }],
+//     impactbasedimages:req.files,
+//     brief: req.body.brief
+//  });
+//  try {
+//     const savedFile = await newFile.save();
+//     res.status(200).json(savedFile);
+//   } 
+//   catch (err) {
+//     res.status(500).json(err);
+//   }
+       
+// });
   
 //GET ALL IMPACT FILES
 router.get('/', async (req, res) => {
@@ -98,6 +173,20 @@ router.get('/:id', async (req, res) => {
       res.status(500).json({ message: err.message });
   }
 });
+
+
+//  router.patch('/:id', async (req, res) => {
+//   try {
+//     const updateFile = await Impactbased.findById(req.params.id);
+//     if (!updateFile) res.status(404).json({ message: 'Document not found' });
+    
+//     updateFile.set(req.body);
+//     await updateFile.save();
+//     res.json("file has been updated")
+//   } catch (err) {
+//     res.status(500).json({ message: err.message });
+//   }
+// });
 
 //DELETE A FILE
 router.delete("/:id", async (req, res) => {
