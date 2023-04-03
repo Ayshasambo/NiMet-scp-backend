@@ -30,7 +30,7 @@ app.use('/api/state', stateRoute);
 app.use('/api/alert', alertRoute);
 app.use('/api/advisory', advisoryRoute);
 app.use('/api/impactbased', impactbasedRoute);
-app.use('/api/uploads', express.static('uploads'));
+app.use('/api/tmp', express.static('tmp'));
 
 
 
