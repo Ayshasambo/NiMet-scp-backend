@@ -166,7 +166,7 @@ router.get('/', async (req,res) => {
 // curl -i -XPUT --data '{"k1":"value 1", "k2": "value 2"}' -H 'Content-type: application/json' https://some-app.cyclic.app/myFile.txt
 router.put('/', async (req,res) => {
   let filename = req.path.slice(1)
-
+  console.log(filename);
   console.log(typeof req.body)
 
   await s3.putObject({
