@@ -4,12 +4,12 @@ const Impactbased = require('../models/Impactbased');
 const multer = require('multer');
 const fs = require('fs');
 const path = require('path');
-const uploadsPath = path.join(__dirname, '..', 'uploads');
+const uploadsPath = path.join(__dirname, '..', 'tmp');
 
 //store images
 const storage = multer.diskStorage({
   destination: function(req, file, cb){
-      cb(null, './uploads');
+      cb(null, './tmp');
     },
     filename: function(req, file, cb){
       cb(null, file.originalname);
