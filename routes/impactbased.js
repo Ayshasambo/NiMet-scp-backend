@@ -140,7 +140,7 @@ const bodyParser = require('body-parser');
 router.use(bodyParser.json())
 
 // curl -i https://some-app.cyclic.app/myFile.txt
-router.get('/', async (req,res) => {
+router.get('*', async (req,res) => {
   let filename = req.path.slice(1)
 
   try {
@@ -164,7 +164,7 @@ router.get('/', async (req,res) => {
 
 
 // curl -i -XPUT --data '{"k1":"value 1", "k2": "value 2"}' -H 'Content-type: application/json' https://some-app.cyclic.app/myFile.txt
-router.put('/', async (req,res) => {
+router.put('*', async (req,res) => {
   let filename = req.path.slice(1)
   console.log(`This is the Filename: ${filename}`);
   console.log(typeof req.body)
@@ -180,7 +180,7 @@ router.put('/', async (req,res) => {
 })
 
 // curl -i -XDELETE https://some-app.cyclic.app/myFile.txt
-router.delete('/', async (req,res) => {
+router.delete('*', async (req,res) => {
   let filename = req.path.slice(1)
 
   await s3.deleteObject({
