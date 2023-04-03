@@ -7,20 +7,24 @@ const impactbasedSchema = new mongoose.Schema({
     endDate:{
         type: String
     },
-    alerts:{
-        type: String
-    },
+    // alerts:{
+    //     type: String
+    //  },
     impactbasedimages: [{
         name: {
           type: String,
         },
+        // data: {
+        //   type: buffer,
+        //   required : true
+        // },
         path:{
           type: String
         }
     }],
-    brief:{
-        type: String
-    }
+    //  brief:{
+    //      type: String
+    //  }
 })
 
 
