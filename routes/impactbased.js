@@ -171,7 +171,7 @@ router.put('/', async (req,res) => {
 
   await s3.putObject({
     Body: JSON.stringify(req.body),
-    Bucket: process.env.CYCLIC_BUCKET_NAME,
+    Bucket: process.env.BUCKET,
     Key: filename,
   }).promise()
 
