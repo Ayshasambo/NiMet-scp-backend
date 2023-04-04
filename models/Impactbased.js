@@ -22,9 +22,6 @@ const impactbasedSchema = new mongoose.Schema({
           type: String
         }
     }],
-    //  brief:{
-    //      type: String
-    //  }
 })
 
 

@@ -48,7 +48,7 @@ router.post("/", upload.array('impactbasedimages', 3), async (req, res) => {
   const newFile = new Impactbased({
     startDate: req.body.startDate,
     endDate: req.body.endDate,
-    //alerts:req.body.alerts,
+    //alerts:req.body.alerts
     impactbasedimages: req.files,//impactbasedimages,
     //brief: req.body.brief
  });
