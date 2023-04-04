@@ -145,7 +145,7 @@ router.get('/', async (req,res) => {
 
   try {
     let s3File = await s3.getObject({
-      Bucket: process.env.CYCLIC_BUCKET_NAME,
+      Bucket: process.env.BUCKET,//CYCLIC_BUCKET_NAME,
       Key: filename,
     }).promise()
 
