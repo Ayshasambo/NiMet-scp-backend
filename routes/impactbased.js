@@ -173,7 +173,7 @@ router.put('/', async (req,res) => {
   await s3.putObject({
     Body: JSON.stringify(req.body),
     Bucket: process.env.CYCLIC_BUCKET_NAME,
-    Key: tmp/W2.jpg//filename,
+    Key:filename,
   }).promise()
 
   res.set('Content-type', 'text/plain')
