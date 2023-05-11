@@ -7,7 +7,6 @@ require('dotenv/config');
 
 //connect to database
 mongoose.connect('mongodb+srv://Aysha:2050@cluster0.4frzr.mongodb.net/nimetapp-backend?retryWrites=true&w=majority')
-//mongoose.connect('mongodb://localhost/nimet')
 .then(() => console.log('connected to mongodb...'))
 .catch(err => console.error('Could not connect to MongoDB...', err));
 
@@ -30,7 +29,7 @@ app.use('/api/state', stateRoute);
 app.use('/api/alert', alertRoute);
 app.use('/api/advisory', advisoryRoute);
 app.use('/api/impactbased', impactbasedRoute);
-app.use('/api/tmp', express.static('tmp'));
+//app.use('/api/tmp', express.static('tmp'));
 
 
 

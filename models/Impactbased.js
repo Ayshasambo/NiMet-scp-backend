@@ -1,27 +1,27 @@
 const mongoose = require('mongoose');
 
 const impactbasedSchema = new mongoose.Schema({
-    startDate:{
+    startdate:{
         type: String
     },
-    endDate:{
+    enddate:{
         type: String
     },
-    // alerts:{
-    //     type: String
-    //  },
-    impactbasedimages: [{
-        name: {
-          type: String,
-        },
+    advisory:{
+      type:String
+    }
+    //impactbasedimages: [{
+        //name: {
+        //type: String,
+        //},
         // data: {
         //   type: buffer,
         //   required : true
         // },
-        path:{
-          type: String
-        }
-    }],
+        //path:{
+          //type: String
+        //}
+    //}],
 })
 
 
