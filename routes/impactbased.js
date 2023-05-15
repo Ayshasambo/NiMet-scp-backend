@@ -45,31 +45,21 @@ catch(err){
 });
 
 
-//DELETE POST
+//DELETE
 router.delete('/:id', async (req, res) =>{
-try{ 
-  const removeImpactbased = await Impactbased.deleteOne({_id: req.params.id})
-  res.json(removeImpactbased)
-}
-catch(err){
-    res.json({message:err})
-}
-});
+  try{ 
+    const removeImpactbased = await Impactbased.deleteOne({_id: req.params.id})
+    res.json(removeImpactbased)
+  }
+  catch(err){
+      res.json({message:err})
+  }
+  });
 
 
-//UPDATE POST
-router.patch('/:id', async (req, res) =>{
-try{
-  const updateTemp = await Temp.updateOne(
-    {_id: req.params.id}, 
-    {$set: req.body}
-  );
-  res.json(updateTemp)
-}
-catch(err){
-  res.json({message:err})
-}
-});
+
+  module.exports = router;
+
 
 
 
@@ -256,5 +246,4 @@ catch(err){
 
 
 
- module.exports = router;
-
+ 

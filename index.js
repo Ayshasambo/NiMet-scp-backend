@@ -6,7 +6,8 @@ require('dotenv/config');
 
 
 //connect to database
-mongoose.connect('mongodb+srv://Aysha:2050@cluster0.4frzr.mongodb.net/nimetapp-backend?retryWrites=true&w=majority')
+mongoose.connect(process.env.DB_CONNECTION)
+//mongoose.connect('mongodb+srv://Aysha:2050@cluster0.4frzr.mongodb.net/nimetapp-backend?retryWrites=true&w=majority')
 .then(() => console.log('connected to mongodb...'))
 .catch(err => console.error('Could not connect to MongoDB...', err));
 

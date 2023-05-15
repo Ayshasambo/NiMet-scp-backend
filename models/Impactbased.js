@@ -10,18 +10,6 @@ const impactbasedSchema = new mongoose.Schema({
     advisory:{
       type:String
     }
-    //impactbasedimages: [{
-        //name: {
-        //type: String,
-        //},
-        // data: {
-        //   type: buffer,
-        //   required : true
-        // },
-        //path:{
-          //type: String
-        //}
-    //}],
 })
 
 
