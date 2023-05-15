@@ -8,7 +8,7 @@ const Impactbased = require('../models/Impactbased');
 //GET POST
 router.get('/', async (req, res) => {
   try{
-     const getImpactbased = await Impactbased.find().sort({state: 1});
+     const getImpactbased = await Impactbased.find();
       res.json(getImpactbased)
   }
   catch(err){
