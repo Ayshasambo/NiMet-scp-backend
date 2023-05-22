@@ -8,8 +8,9 @@ const cors = require("cors");
 
 
 //connect to database
-// mongoose.connect('mongodb+srv://Aysha:2050@cluster0.4frzr.mongodb.net/nimetapp-backend?retryWrites=true&w=majority')
-mongoose.connect('mongodb://localhost/nimet-scp-backend')
+mongoose.connect('mongodb+srv://Aysha:2050@cluster0.4frzr.mongodb.net/nimetapp-backend?retryWrites=true&w=majority')
+//mongoose.connect('mongodb://localhost/nimet-scp-backend')
+
 .then(() => console.log('connected to mongodb...'))
 .catch(err => console.error('Could not connect to MongoDB...', err));
 
