@@ -6,23 +6,10 @@ const impactbasedSchema = new mongoose.Schema({
     },
     enddate:{
         type: String
-    },
-    advisory:{
-      type:String
-    }
-    //impactbasedimages: [{
-        //name: {
-        //type: String,
-        //},
-        // data: {
-        //   type: buffer,
-        //   required : true
-        // },
-        //path:{
-          //type: String
-        //}
-    //}],
-})
+    },   
+  },
+  {timestamps: true}
+)
 
 
 

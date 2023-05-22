@@ -2,13 +2,10 @@ const express = require('express');
 const router = express.Router();
 const Impactbased = require('../models/Impactbased');
 
-
-
-
 //GET POST
 router.get('/', async (req, res) => {
   try{
-     const getImpactbased = await Impactbased.find().sort({state: 1});
+     const getImpactbased = await Impactbased.find().sort({createdAt: -1});
       res.json(getImpactbased)
   }
   catch(err){
@@ -34,9 +31,9 @@ router.post("/", async (req, res) => {
 
 
 //Get specific post
-router.get('/:id', async (req, res) => {
+router.get('/latest', async (req, res) => {
 try{
-  const getImpactbased = await Impactbased.findOne({ _id: req.params.id });
+  const getImpactbased = await Impactbased.findOne().sort({ createdAt: -1});
   res.json(getImpactbased)
 }
 catch(err){
