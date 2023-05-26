@@ -18,7 +18,6 @@ router.post("/", async (req, res) => {
  const newImpactbased =  new Impactbased({
   startdate: req.body.startdate,
   enddate: req.body.enddate,
-  advisory:req.body.advisory
  });
  try{
    const savedImpactbased = await newImpactbased.save(); 
