@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c85e534.chunk.css",
+    "main.js": "/static/js/main.db60030e.chunk.js",
+    "main.js.map": "/static/js/main.db60030e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2364a69e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2364a69e.js.map",
+    "static/css/2.fc67511e.chunk.css": "/static/css/2.fc67511e.chunk.css",
+    "static/js/2.10dbb4ac.chunk.js": "/static/js/2.10dbb4ac.chunk.js",
+    "static/js/2.10dbb4ac.chunk.js.map": "/static/js/2.10dbb4ac.chunk.js.map",
+    "static/js/3.8d516111.chunk.js": "/static/js/3.8d516111.chunk.js",
+    "static/js/3.8d516111.chunk.js.map": "/static/js/3.8d516111.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fc67511e.chunk.css.map": "/static/css/2.fc67511e.chunk.css.map",
+    "static/css/main.4c85e534.chunk.css.map": "/static/css/main.4c85e534.chunk.css.map",
+    "static/js/2.10dbb4ac.chunk.js.LICENSE.txt": "/static/js/2.10dbb4ac.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/static/media/boxicons.cbd149c5.ttf",
+    "static/media/nimet-logo.b9dcc5e9.png": "/static/media/nimet-logo.b9dcc5e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2364a69e.js",
+    "static/css/2.fc67511e.chunk.css",
+    "static/js/2.10dbb4ac.chunk.js",
+    "static/css/main.4c85e534.chunk.css",
+    "static/js/main.db60030e.chunk.js"
+  ]
+}

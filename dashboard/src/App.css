@@ -1,0 +1,31 @@
+.app {
+    color: var(--txt-color);
+}
+
+.app__content {
+    padding-left: var(--sidebar-width);
+    background-color: var(--second-bg);
+    min-height: 100vh;
+}
+
+.app__content-main {
+    padding: 30px;
+}
+
+.image-preview {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-preview img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin: 10px;
+    flex-basis: calc(33.33% - 20px);
+    max-width: 300px;
+    max-height: 300px;
+  }
+  

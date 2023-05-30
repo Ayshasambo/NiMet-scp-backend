@@ -1,0 +1,22 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Incoming Files",
+        "route": "/incomingfiles",
+        "icon": "bx bx-file"
+    },
+    {
+        "display_name": "Outgoing Files",
+        "route": "/outgoingfiles",
+        "icon": "bx bx-file"
+    }, 
+    {
+        "display_name": "User Management",
+        "route": "/users",
+        "icon": "bx bx-group"
+    }
+]
