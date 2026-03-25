@@ -6,6 +6,8 @@ require('dotenv/config');
 const cors = require("cors");
 
 const path = require('path');
+//const path = require('path');
+const FILE_DIRECTORY = process.env.FILE_DIRECTORY || path.join(__dirname, 'files');
 
 
 //connect to database
@@ -22,7 +24,7 @@ const stateRoute = require('./routes/state.js');
 const alertRoute = require('./routes/alert.js');
 const advisoryRoute = require('./routes/advisory.js');
 const impactbasedRoute = require('./routes/impactbased.js');
-
+const historicalDataRoute = require('./routes/historical-data.js')
 
 //middlewares 
 app.use(express.json());
@@ -33,6 +35,7 @@ app.use('/api/state', stateRoute);
 app.use('/api/alert', alertRoute);
 app.use('/api/advisory', advisoryRoute);
 app.use('/api/impactbased', impactbasedRoute);;
+app.use('/api/historical-data', historicalDataRoute);
 app.use(express.static('dashboard/build'));
 
 app.get('*', (req, res) => {
