@@ -3,41 +3,217 @@ const router = express.Router()
 const Srp = require('../models/Srp.js')
 
 //GET POST
-
-
 router.get('/', async (req, res) => {
   try {
-    const { year, lga_name } = req.query;
+    let { year, lga_name, state_name } = req.query;
+    const currentYear = new Date().getFullYear();
+    year = year ? Number(year) : currentYear;
 
-    if (!year) return res.status(400).json({ error: "Year is required" });
-
-    // Build the query
     const query = { year: Number(year) };
 
-    if (lga_name) {
-      query.location = { 
-        $elemMatch: { name: { $regex: new RegExp(`^${lga_name}$`, 'i') } } 
-      };
+    if (state_name) {
+      query.statename = { $regex: new RegExp(state_name.trim(), 'i') };
     }
 
-    // Project only the matching location element
     let srps;
     if (lga_name) {
-      srps = await Srp.find(query, {
-        year: 1,
-        statename: 1,
-        location: { $elemMatch: { name: { $regex: new RegExp(`^${lga_name}$`, 'i') } } }
-      }).lean();
+      // First find documents containing LGA anywhere in location array
+      srps = await Srp.find(query).lean();
+      const searchLga = lga_name.trim().toLowerCase();
+      
+      srps = srps.filter(doc => 
+        doc.location?.some(loc => 
+          loc.name?.trim().toLowerCase().includes(searchLga) ||
+          searchLga.includes(loc.name?.trim().toLowerCase())
+        )
+      );
     } else {
       srps = await Srp.find(query).lean();
     }
 
-    res.json(srps);
+    // Filter locations within each document
+    const results = srps.map(doc => {
+      if (lga_name) {
+        const searchLga = lga_name.trim().toLowerCase();
+        const filteredLocations = doc.location.filter(loc => 
+          loc.name?.trim().toLowerCase().includes(searchLga)
+        );
+        return { ...doc, location: filteredLocations };
+      }
+      return doc;
+    });
 
+    res.json(results);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 });
+// router.get('/', async (req, res) => {
+//   try {
+//     let { year, lga_name, state_name } = req.query;
+//     const currentYear = new Date().getFullYear();
+//     year = year ? Number(year) : currentYear;
+
+//     const query = { year };
+
+//     if (state_name) {
+//       query.statename = { $regex: new RegExp(`^${state_name.trim()}$`, 'i') };
+//     }
+
+//     if (lga_name) {
+//       query.location = {
+//         $elemMatch: { name: { $regex: new RegExp(`^${lga_name.trim()}$`, 'i') } }
+//       };
+//     }
+
+//     const srps = await Srp.find(query).lean();
+
+//     // If filtering by LGA, return only matching locations
+//     const results = srps.map(doc => {
+//       if (lga_name) {
+//         const filteredLocations = doc.location.filter(
+//           loc => loc.name.trim().toLowerCase() === lga_name.trim().toLowerCase()
+//         );
+//         return { ...doc, location: filteredLocations };
+//       }
+//       return doc;
+//     });
+
+//     res.json(results);
+
+//   } catch (err) {
+//     res.status(500).json({ error: err.message });
+//   }
+// });
+// router.get('/', async (req, res) => {
+//   try {
+//     let { year, lga_name } = req.query;
+//     const currentYear = new Date().getFullYear();
+//     year = year ? Number(year) : currentYear;
+
+//     const query = { year };
+
+//     if (lga_name) {
+//       // Correctly match location.name inside the array
+//       query.location = {
+//         $elemMatch: {
+//           name: { $regex: new RegExp(`^\\s*${lga_name.trim()}\\s*$`, 'i') }
+//         }
+//       };
+//     }
+
+//     const srps = await Srp.find(query).lean();
+
+//     // Keep only matching location if lga_name is specified
+//     const results = srps.map(doc => {
+//       if (lga_name) {
+//         const filteredLocations = doc.location.filter(
+//           loc => loc.name.trim().toLowerCase() === lga_name.trim().toLowerCase()
+//         );
+//         return { ...doc, location: filteredLocations };
+//       }
+//       return doc;
+//     });
+
+//     res.json(results);
+
+//   } catch (err) {
+//     res.status(500).json({ error: err.message });
+//   }
+// });
+// router.get('/', async (req, res) => {
+//   try {
+//     let { year, lga_name } = req.query;
+//     const currentYear = new Date().getFullYear();
+//     year = year ? Number(year) : currentYear;
+
+//     const query = { year };
+
+//     if (lga_name) {
+//       query.location = {
+//         $elemMatch: {
+//           name: { $regex: new RegExp(`^\\s*${lga_name.trim()}\\s*$`, 'i') }
+//         }
+//       };
+//     }
+
+//     const srps = await Srp.find(query).lean();
+
+//     // Filter location array to include only the matching LGA
+//     let results = srps.map(doc => {
+//       if (lga_name) {
+//         const filteredLocations = doc.location.filter(
+//           loc => loc.name.trim().toLowerCase() === lga_name.trim().toLowerCase()
+//         );
+//         return { ...doc, location: filteredLocations };
+//       }
+//       return doc;
+//     });
+
+//     res.json(results);
+
+//   } catch (err) {
+//     res.status(500).json({ error: err.message });
+//   }
+// });
+// router.get('/', async (req, res) => {
+//   try {
+//     let { year, lga_name } = req.query;
+
+//     // Default to current year if not provided
+//     const currentYear = new Date().getFullYear();
+//     year = year ? Number(year) : currentYear;
+
+//     const query = { year };
+
+//     if (lga_name) {
+//       // Case-insensitive match, ignore extra spaces
+//       query["location.name"] = { $regex: new RegExp(`^\\s*${lga_name.trim()}\\s*$`, 'i') };
+//     }
+
+//     const srps = await Srp.find(query).lean();
+
+//     res.json(srps);
+
+//   } catch (err) {
+//     res.status(500).json({ error: err.message });
+//   }
+// });
+
+
+// router.get('/', async (req, res) => {
+//   try {
+//     const { year, lga_name } = req.query;
+
+//     if (!year) return res.status(400).json({ error: "Year is required" });
+
+//     // Build the query
+//     const query = { year: Number(year) };
+
+//     if (lga_name) {
+//       query.location = { 
+//         $elemMatch: { name: { $regex: new RegExp(`^${lga_name}$`, 'i') } } 
+//       };
+//     }
+
+//     // Project only the matching location element
+//     let srps;
+//     if (lga_name) {
+//       srps = await Srp.find(query, {
+//         year: 1,
+//         statename: 1,
+//         location: { $elemMatch: { name: { $regex: new RegExp(`^${lga_name}$`, 'i') } } }
+//       }).lean();
+//     } else {
+//       srps = await Srp.find(query).lean();
+//     }
+
+//     res.json(srps);
+
+//   } catch (err) {
+//     res.status(500).json({ error: err.message });
+//   }
+// });
 
 
 // router.get('/', async (req, res) => {
